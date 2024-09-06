@@ -1,0 +1,191 @@
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Light.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Light.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Light.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-LightItalic.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-LightItalic.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-LightItalic.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-LightItalic.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Regular.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Regular.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Regular.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Italic.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Italic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Italic.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Italic.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Italic.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Medium.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Medium.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Medium.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-MediumItalic.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-MediumItalic.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-MediumItalic.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-MediumItalic.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBold.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBold.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBold.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBold.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBoldItalic.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBoldItalic.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBoldItalic.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-SemiBoldItalic.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Bold.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Bold.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Bold.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Bold.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-BoldItalic.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-BoldItalic.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-BoldItalic.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-BoldItalic.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Black.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Black.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Black.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-Black.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram Mono";
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-BlackItalic.eot");
+  src: url("../../../fonts/domicile/beltram-mono/BeltramMono-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-BlackItalic.woff2")
+      format("woff2"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-BlackItalic.woff")
+      format("woff"),
+    url("../../../fonts/domicile/beltram-mono/BeltramMono-BlackItalic.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
