@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Kobe";
+  src: url("fonts/Kobe-Regular.eot");
+  src: url("fonts/Kobe-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kobe-Regular.woff2") format("woff2"),
+    url("fonts/Kobe-Regular.woff") format("woff"),
+    url("fonts/Kobe-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kobe";
+  src: url("fonts/Kobe-Italic.eot");
+  src: url("fonts/Kobe-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kobe-Italic.woff2") format("woff2"),
+    url("fonts/Kobe-Italic.woff") format("woff"),
+    url("fonts/Kobe-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kobe";
+  src: url("fonts/Kobe-Bold.eot");
+  src: url("fonts/Kobe-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kobe-Bold.woff2") format("woff2"),
+    url("fonts/Kobe-Bold.woff") format("woff"),
+    url("fonts/Kobe-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kobe";
+  src: url("fonts/Kobe-BoldItalic.eot");
+  src: url("fonts/Kobe-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kobe-BoldItalic.woff2") format("woff2"),
+    url("fonts/Kobe-BoldItalic.woff") format("woff"),
+    url("fonts/Kobe-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kobe";
+  src: url("fonts/Kobe-Black.eot");
+  src: url("fonts/Kobe-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kobe-Black.woff2") format("woff2"),
+    url("fonts/Kobe-Black.woff") format("woff"),
+    url("fonts/Kobe-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kobe";
+  src: url("fonts/Kobe-BlackItalic.eot");
+  src: url("fonts/Kobe-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kobe-BlackItalic.woff2") format("woff2"),
+    url("fonts/Kobe-BlackItalic.woff") format("woff"),
+    url("fonts/Kobe-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Eros Condensed";
+  src: url("fonts/Eros-LightCondensed.eot");
+  src: url("fonts/Eros-LightCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Eros-LightCondensed.woff2") format("woff2"),
+    url("fonts/Eros-LightCondensed.woff") format("woff"),
+    url("fonts/Eros-LightCondensed.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eros Condensed";
+  src: url("fonts/Eros-Condensed.eot");
+  src: url("fonts/Eros-Condensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Eros-Condensed.woff2") format("woff2"),
+    url("fonts/Eros-Condensed.woff") format("woff"),
+    url("fonts/Eros-Condensed.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eros Condensed";
+  src: url("fonts/Eros-BoldCondensed.eot");
+  src: url("fonts/Eros-BoldCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Eros-BoldCondensed.woff2") format("woff2"),
+    url("fonts/Eros-BoldCondensed.woff") format("woff"),
+    url("fonts/Eros-BoldCondensed.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

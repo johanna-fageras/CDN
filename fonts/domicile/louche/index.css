@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Louche";
+  src: url("fonts/Louche-Regular.eot");
+  src: url("fonts/Louche-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Louche-Regular.woff2") format("woff2"),
+    url("fonts/Louche-Regular.woff") format("woff"),
+    url("fonts/Louche-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Louche";
+  src: url("fonts/Louche-Medium.eot");
+  src: url("fonts/Louche-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Louche-Medium.woff2") format("woff2"),
+    url("fonts/Louche-Medium.woff") format("woff"),
+    url("fonts/Louche-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Louche";
+  src: url("fonts/Louche-SemiBold.eot");
+  src: url("fonts/Louche-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Louche-SemiBold.woff2") format("woff2"),
+    url("fonts/Louche-SemiBold.woff") format("woff"),
+    url("fonts/Louche-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Louche";
+  src: url("fonts/Louche-Bold.eot");
+  src: url("fonts/Louche-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Louche-Bold.woff2") format("woff2"),
+    url("fonts/Louche-Bold.woff") format("woff"),
+    url("fonts/Louche-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Louche";
+  src: url("fonts/Louche-Black.eot");
+  src: url("fonts/Louche-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Louche-Black.woff2") format("woff2"),
+    url("fonts/Louche-Black.woff") format("woff"),
+    url("fonts/Louche-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

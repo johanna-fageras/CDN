@@ -1,0 +1,144 @@
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-Light.eot");
+  src: url("fonts/Beltram-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-Light.woff2") format("woff2"),
+    url("fonts/Beltram-Light.woff") format("woff"),
+    url("fonts/Beltram-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-LightItalic.eot");
+  src: url("fonts/Beltram-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-LightItalic.woff2") format("woff2"),
+    url("fonts/Beltram-LightItalic.woff") format("woff"),
+    url("fonts/Beltram-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-Regular.eot");
+  src: url("fonts/Beltram-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-Regular.woff2") format("woff2"),
+    url("fonts/Beltram-Regular.woff") format("woff"),
+    url("fonts/Beltram-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-Italic.eot");
+  src: url("fonts/Beltram-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-Italic.woff2") format("woff2"),
+    url("fonts/Beltram-Italic.woff") format("woff"),
+    url("fonts/Beltram-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-Medium.eot");
+  src: url("fonts/Beltram-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-Medium.woff2") format("woff2"),
+    url("fonts/Beltram-Medium.woff") format("woff"),
+    url("fonts/Beltram-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-MediumItalic.eot");
+  src: url("fonts/Beltram-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-MediumItalic.woff2") format("woff2"),
+    url("fonts/Beltram-MediumItalic.woff") format("woff"),
+    url("fonts/Beltram-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-SemiBold.eot");
+  src: url("fonts/Beltram-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-SemiBold.woff2") format("woff2"),
+    url("fonts/Beltram-SemiBold.woff") format("woff"),
+    url("fonts/Beltram-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-SemiBoldItalic.eot");
+  src: url("fonts/Beltram-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Beltram-SemiBoldItalic.woff2") format("woff2"),
+    url("fonts/Beltram-SemiBoldItalic.woff") format("woff"),
+    url("fonts/Beltram-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-Bold.eot");
+  src: url("fonts/Beltram-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-Bold.woff2") format("woff2"),
+    url("fonts/Beltram-Bold.woff") format("woff"),
+    url("fonts/Beltram-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-BoldItalic.eot");
+  src: url("fonts/Beltram-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-BoldItalic.woff2") format("woff2"),
+    url("fonts/Beltram-BoldItalic.woff") format("woff"),
+    url("fonts/Beltram-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-Black.eot");
+  src: url("fonts/Beltram-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-Black.woff2") format("woff2"),
+    url("fonts/Beltram-Black.woff") format("woff"),
+    url("fonts/Beltram-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url("fonts/Beltram-BlackItalic.eot");
+  src: url("fonts/Beltram-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Beltram-BlackItalic.woff2") format("woff2"),
+    url("fonts/Beltram-BlackItalic.woff") format("woff"),
+    url("fonts/Beltram-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

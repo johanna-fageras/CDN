@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Larsen Condensed";
+  src: url("fonts/Larsen-Condensed.eot");
+  src: url("fonts/Larsen-Condensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Larsen-Condensed.woff2") format("woff2"),
+    url("fonts/Larsen-Condensed.woff") format("woff"),
+    url("fonts/Larsen-Condensed.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Larsen SemiCondensed";
+  src: url("fonts/Larsen-SemiCondensed.eot");
+  src: url("fonts/Larsen-SemiCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Larsen-SemiCondensed.woff2") format("woff2"),
+    url("fonts/Larsen-SemiCondensed.woff") format("woff"),
+    url("fonts/Larsen-SemiCondensed.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Larsen";
+  src: url("fonts/Larsen-Regular.eot");
+  src: url("fonts/Larsen-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Larsen-Regular.woff2") format("woff2"),
+    url("fonts/Larsen-Regular.woff") format("woff"),
+    url("fonts/Larsen-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Larsen Expanded";
+  src: url("fonts/Larsen-Expanded.eot");
+  src: url("fonts/Larsen-Expanded.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Larsen-Expanded.woff2") format("woff2"),
+    url("fonts/Larsen-Expanded.woff") format("woff"),
+    url("fonts/Larsen-Expanded.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

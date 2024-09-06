@@ -1,0 +1,121 @@
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-Regular.eot");
+  src: url("fonts/Chauffeur-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Chauffeur-Regular.woff2") format("woff2"),
+    url("fonts/Chauffeur-Regular.woff") format("woff"),
+    url("fonts/Chauffeur-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-Italic.eot");
+  src: url("fonts/Chauffeur-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Chauffeur-Italic.woff2") format("woff2"),
+    url("fonts/Chauffeur-Italic.woff") format("woff"),
+    url("fonts/Chauffeur-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-Medium.eot");
+  src: url("fonts/Chauffeur-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Chauffeur-Medium.woff2") format("woff2"),
+    url("fonts/Chauffeur-Medium.woff") format("woff"),
+    url("fonts/Chauffeur-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-MediumItalic.eot");
+  src: url("fonts/Chauffeur-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Chauffeur-MediumItalic.woff2") format("woff2"),
+    url("fonts/Chauffeur-MediumItalic.woff") format("woff"),
+    url("fonts/Chauffeur-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-SemiBold.eot");
+  src: url("fonts/Chauffeur-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Chauffeur-SemiBold.woff2") format("woff2"),
+    url("fonts/Chauffeur-SemiBold.woff") format("woff"),
+    url("fonts/Chauffeur-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-SemiBoldItalic.eot");
+  src: url("fonts/Chauffeur-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Chauffeur-SemiBoldItalic.woff2") format("woff2"),
+    url("fonts/Chauffeur-SemiBoldItalic.woff") format("woff"),
+    url("fonts/Chauffeur-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-Bold.eot");
+  src: url("fonts/Chauffeur-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Chauffeur-Bold.woff2") format("woff2"),
+    url("fonts/Chauffeur-Bold.woff") format("woff"),
+    url("fonts/Chauffeur-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-BoldItalic.eot");
+  src: url("fonts/Chauffeur-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Chauffeur-BoldItalic.woff2") format("woff2"),
+    url("fonts/Chauffeur-BoldItalic.woff") format("woff"),
+    url("fonts/Chauffeur-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-Black.eot");
+  src: url("fonts/Chauffeur-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Chauffeur-Black.woff2") format("woff2"),
+    url("fonts/Chauffeur-Black.woff") format("woff"),
+    url("fonts/Chauffeur-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Chauffeur";
+  src: url("fonts/Chauffeur-BlackItalic.eot");
+  src: url("fonts/Chauffeur-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Chauffeur-BlackItalic.woff2") format("woff2"),
+    url("fonts/Chauffeur-BlackItalic.woff") format("woff"),
+    url("fonts/Chauffeur-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

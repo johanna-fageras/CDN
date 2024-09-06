@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Voyage";
+  src: url("fonts/Voyage-Regular.eot");
+  src: url("fonts/Voyage-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Voyage-Regular.woff2") format("woff2"),
+    url("fonts/Voyage-Regular.woff") format("woff"),
+    url("fonts/Voyage-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Voyage";
+  src: url("fonts/Voyage-Bold.eot");
+  src: url("fonts/Voyage-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Voyage-Bold.woff2") format("woff2"),
+    url("fonts/Voyage-Bold.woff") format("woff"),
+    url("fonts/Voyage-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Category";
+  src: url("fonts/Category-Regular.eot");
+  src: url("fonts/Category-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Category-Regular.woff2") format("woff2"),
+    url("fonts/Category-Regular.woff") format("woff"),
+    url("fonts/Category-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url("fonts/Category-Italic.eot");
+  src: url("fonts/Category-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Category-Italic.woff2") format("woff2"),
+    url("fonts/Category-Italic.woff") format("woff"),
+    url("fonts/Category-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url("fonts/Category-Medium.eot");
+  src: url("fonts/Category-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Category-Medium.woff2") format("woff2"),
+    url("fonts/Category-Medium.woff") format("woff"),
+    url("fonts/Category-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url("fonts/Category-MediumItalic.eot");
+  src: url("fonts/Category-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Category-MediumItalic.woff2") format("woff2"),
+    url("fonts/Category-MediumItalic.woff") format("woff"),
+    url("fonts/Category-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url("fonts/Category-Bold.eot");
+  src: url("fonts/Category-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Category-Bold.woff2") format("woff2"),
+    url("fonts/Category-Bold.woff") format("woff"),
+    url("fonts/Category-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url("fonts/Category-BoldItalic.eot");
+  src: url("fonts/Category-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Category-BoldItalic.woff2") format("woff2"),
+    url("fonts/Category-BoldItalic.woff") format("woff"),
+    url("fonts/Category-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url("fonts/Category-Black.eot");
+  src: url("fonts/Category-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Category-Black.woff2") format("woff2"),
+    url("fonts/Category-Black.woff") format("woff"),
+    url("fonts/Category-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Category";
+  src: url("fonts/Category-BlackItalic.eot");
+  src: url("fonts/Category-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Category-BlackItalic.woff2") format("woff2"),
+    url("fonts/Category-BlackItalic.woff") format("woff"),
+    url("fonts/Category-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

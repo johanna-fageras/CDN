@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Dolph KOO";
+  src: url("fonts/DolphKOO-Light.eot");
+  src: url("fonts/DolphKOO-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DolphKOO-Light.woff2") format("woff2"),
+    url("fonts/DolphKOO-Light.woff") format("woff"),
+    url("fonts/DolphKOO-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dolph KOO";
+  src: url("fonts/DolphKOO-LightItalic.eot");
+  src: url("fonts/DolphKOO-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DolphKOO-LightItalic.woff2") format("woff2"),
+    url("fonts/DolphKOO-LightItalic.woff") format("woff"),
+    url("fonts/DolphKOO-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dolph KOO";
+  src: url("fonts/DolphKOO-Regular.eot");
+  src: url("fonts/DolphKOO-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DolphKOO-Regular.woff2") format("woff2"),
+    url("fonts/DolphKOO-Regular.woff") format("woff"),
+    url("fonts/DolphKOO-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dolph KOO";
+  src: url("fonts/DolphKOO-Italic.eot");
+  src: url("fonts/DolphKOO-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DolphKOO-Italic.woff2") format("woff2"),
+    url("fonts/DolphKOO-Italic.woff") format("woff"),
+    url("fonts/DolphKOO-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dolph KOO";
+  src: url("fonts/DolphKOO-Medium.eot");
+  src: url("fonts/DolphKOO-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DolphKOO-Medium.woff2") format("woff2"),
+    url("fonts/DolphKOO-Medium.woff") format("woff"),
+    url("fonts/DolphKOO-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dolph KOO";
+  src: url("fonts/DolphKOO-MediumItalic.eot");
+  src: url("fonts/DolphKOO-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DolphKOO-MediumItalic.woff2") format("woff2"),
+    url("fonts/DolphKOO-MediumItalic.woff") format("woff"),
+    url("fonts/DolphKOO-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dolph KOO";
+  src: url("fonts/DolphKOO-Bold.eot");
+  src: url("fonts/DolphKOO-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DolphKOO-Bold.woff2") format("woff2"),
+    url("fonts/DolphKOO-Bold.woff") format("woff"),
+    url("fonts/DolphKOO-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dolph KOO";
+  src: url("fonts/DolphKOO-BoldItalic.eot");
+  src: url("fonts/DolphKOO-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/DolphKOO-BoldItalic.woff2") format("woff2"),
+    url("fonts/DolphKOO-BoldItalic.woff") format("woff"),
+    url("fonts/DolphKOO-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

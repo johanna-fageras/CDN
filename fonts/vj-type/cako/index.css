@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Cako";
+  src: url("fonts/Cako-Light.eot");
+  src: url("fonts/Cako-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cako-Light.woff2") format("woff2"),
+    url("fonts/Cako-Light.woff") format("woff"),
+    url("fonts/Cako-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cako";
+  src: url("fonts/Cako-LightItalic.eot");
+  src: url("fonts/Cako-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cako-LightItalic.woff2") format("woff2"),
+    url("fonts/Cako-LightItalic.woff") format("woff"),
+    url("fonts/Cako-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cako";
+  src: url("fonts/Cako-Regular.eot");
+  src: url("fonts/Cako-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cako-Regular.woff2") format("woff2"),
+    url("fonts/Cako-Regular.woff") format("woff"),
+    url("fonts/Cako-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cako";
+  src: url("fonts/Cako-Italic.eot");
+  src: url("fonts/Cako-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cako-Italic.woff2") format("woff2"),
+    url("fonts/Cako-Italic.woff") format("woff"),
+    url("fonts/Cako-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cako";
+  src: url("fonts/Cako-Bold.eot");
+  src: url("fonts/Cako-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cako-Bold.woff2") format("woff2"),
+    url("fonts/Cako-Bold.woff") format("woff"),
+    url("fonts/Cako-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cako";
+  src: url("fonts/Cako-BoldItalic.eot");
+  src: url("fonts/Cako-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cako-BoldItalic.woff2") format("woff2"),
+    url("fonts/Cako-BoldItalic.woff") format("woff"),
+    url("fonts/Cako-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

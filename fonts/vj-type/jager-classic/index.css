@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Jager Classic";
+  src: url("fonts/JagerClassic-Regular.eot");
+  src: url("fonts/JagerClassic-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/JagerClassic-Regular.woff2") format("woff2"),
+    url("fonts/JagerClassic-Regular.woff") format("woff"),
+    url("fonts/JagerClassic-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jager Classic";
+  src: url("fonts/JagerClassic-Bold.eot");
+  src: url("fonts/JagerClassic-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/JagerClassic-Bold.woff2") format("woff2"),
+    url("fonts/JagerClassic-Bold.woff") format("woff"),
+    url("fonts/JagerClassic-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

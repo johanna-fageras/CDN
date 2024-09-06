@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Dida";
+  src: url("fonts/Dida-Regular.eot");
+  src: url("fonts/Dida-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Dida-Regular.woff2") format("woff2"),
+    url("fonts/Dida-Regular.woff") format("woff"),
+    url("fonts/Dida-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

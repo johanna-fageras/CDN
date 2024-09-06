@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Love";
+  src: url("fonts/Love-Regular.eot");
+  src: url("fonts/Love-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Love-Regular.woff2") format("woff2"),
+    url("fonts/Love-Regular.woff") format("woff"),
+    url("fonts/Love-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

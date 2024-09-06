@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Eros";
+  src: url("fonts/Eros-Light.eot");
+  src: url("fonts/Eros-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Eros-Light.woff2") format("woff2"),
+    url("fonts/Eros-Light.woff") format("woff"),
+    url("fonts/Eros-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eros";
+  src: url("fonts/Eros-Regular.eot");
+  src: url("fonts/Eros-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Eros-Regular.woff2") format("woff2"),
+    url("fonts/Eros-Regular.woff") format("woff"),
+    url("fonts/Eros-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eros";
+  src: url("fonts/Eros-Bold.eot");
+  src: url("fonts/Eros-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Eros-Bold.woff2") format("woff2"),
+    url("fonts/Eros-Bold.woff") format("woff"),
+    url("fonts/Eros-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
