@@ -1,0 +1,144 @@
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-Thin.eot");
+  src: url("fonts/CeraRound-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-Thin.woff2") format("woff2"),
+    url("fonts/CeraRound-Thin.woff") format("woff"),
+    url("fonts/CeraRound-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-ThinItalic.eot");
+  src: url("fonts/CeraRound-ThinItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-ThinItalic.woff2") format("woff2"),
+    url("fonts/CeraRound-ThinItalic.woff") format("woff"),
+    url("fonts/CeraRound-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-Light.eot");
+  src: url("fonts/CeraRound-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-Light.woff2") format("woff2"),
+    url("fonts/CeraRound-Light.woff") format("woff"),
+    url("fonts/CeraRound-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-LightItalic.eot");
+  src: url("fonts/CeraRound-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-LightItalic.woff2") format("woff2"),
+    url("fonts/CeraRound-LightItalic.woff") format("woff"),
+    url("fonts/CeraRound-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-Regular.eot");
+  src: url("fonts/CeraRound-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-Regular.woff2") format("woff2"),
+    url("fonts/CeraRound-Regular.woff") format("woff"),
+    url("fonts/CeraRound-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-Italic.eot");
+  src: url("fonts/CeraRound-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-Italic.woff2") format("woff2"),
+    url("fonts/CeraRound-Italic.woff") format("woff"),
+    url("fonts/CeraRound-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-Medium.eot");
+  src: url("fonts/CeraRound-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-Medium.woff2") format("woff2"),
+    url("fonts/CeraRound-Medium.woff") format("woff"),
+    url("fonts/CeraRound-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-MediumItalic.eot");
+  src: url("fonts/CeraRound-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/CeraRound-MediumItalic.woff2") format("woff2"),
+    url("fonts/CeraRound-MediumItalic.woff") format("woff"),
+    url("fonts/CeraRound-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-Bold.eot");
+  src: url("fonts/CeraRound-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-Bold.woff2") format("woff2"),
+    url("fonts/CeraRound-Bold.woff") format("woff"),
+    url("fonts/CeraRound-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-BoldItalic.eot");
+  src: url("fonts/CeraRound-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-BoldItalic.woff2") format("woff2"),
+    url("fonts/CeraRound-BoldItalic.woff") format("woff"),
+    url("fonts/CeraRound-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-Black.eot");
+  src: url("fonts/CeraRound-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-Black.woff2") format("woff2"),
+    url("fonts/CeraRound-Black.woff") format("woff"),
+    url("fonts/CeraRound-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Round";
+  src: url("fonts/CeraRound-BlackItalic.eot");
+  src: url("fonts/CeraRound-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/CeraRound-BlackItalic.woff2") format("woff2"),
+    url("fonts/CeraRound-BlackItalic.woff") format("woff"),
+    url("fonts/CeraRound-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

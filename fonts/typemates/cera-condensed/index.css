@@ -1,0 +1,148 @@
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-ThinCondensed.eot");
+  src: url("fonts/Cera-ThinCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cera-ThinCondensed.woff2") format("woff2"),
+    url("fonts/Cera-ThinCondensed.woff") format("woff"),
+    url("fonts/Cera-ThinCondensed.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-ThinCondensedItalic.eot");
+  src: url("fonts/Cera-ThinCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Cera-ThinCondensedItalic.woff2") format("woff2"),
+    url("fonts/Cera-ThinCondensedItalic.woff") format("woff"),
+    url("fonts/Cera-ThinCondensedItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-LightCondensed.eot");
+  src: url("fonts/Cera-LightCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cera-LightCondensed.woff2") format("woff2"),
+    url("fonts/Cera-LightCondensed.woff") format("woff"),
+    url("fonts/Cera-LightCondensed.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-LightCondensedItalic.eot");
+  src: url("fonts/Cera-LightCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Cera-LightCondensedItalic.woff2") format("woff2"),
+    url("fonts/Cera-LightCondensedItalic.woff") format("woff"),
+    url("fonts/Cera-LightCondensedItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-Condensed.eot");
+  src: url("fonts/Cera-Condensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cera-Condensed.woff2") format("woff2"),
+    url("fonts/Cera-Condensed.woff") format("woff"),
+    url("fonts/Cera-Condensed.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-CondensedItalic.eot");
+  src: url("fonts/Cera-CondensedItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cera-CondensedItalic.woff2") format("woff2"),
+    url("fonts/Cera-CondensedItalic.woff") format("woff"),
+    url("fonts/Cera-CondensedItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-MediumCondensed.eot");
+  src: url("fonts/Cera-MediumCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cera-MediumCondensed.woff2") format("woff2"),
+    url("fonts/Cera-MediumCondensed.woff") format("woff"),
+    url("fonts/Cera-MediumCondensed.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-MediumCondensedItalic.eot");
+  src: url("fonts/Cera-MediumCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Cera-MediumCondensedItalic.woff2") format("woff2"),
+    url("fonts/Cera-MediumCondensedItalic.woff") format("woff"),
+    url("fonts/Cera-MediumCondensedItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-BoldCondensed.eot");
+  src: url("fonts/Cera-BoldCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cera-BoldCondensed.woff2") format("woff2"),
+    url("fonts/Cera-BoldCondensed.woff") format("woff"),
+    url("fonts/Cera-BoldCondensed.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-BoldCondensedItalic.eot");
+  src: url("fonts/Cera-BoldCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Cera-BoldCondensedItalic.woff2") format("woff2"),
+    url("fonts/Cera-BoldCondensedItalic.woff") format("woff"),
+    url("fonts/Cera-BoldCondensedItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-BlackCondensed.eot");
+  src: url("fonts/Cera-BlackCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cera-BlackCondensed.woff2") format("woff2"),
+    url("fonts/Cera-BlackCondensed.woff") format("woff"),
+    url("fonts/Cera-BlackCondensed.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Condensed";
+  src: url("fonts/Cera-BlackCondensedItalic.eot");
+  src: url("fonts/Cera-BlackCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Cera-BlackCondensedItalic.woff2") format("woff2"),
+    url("fonts/Cera-BlackCondensedItalic.woff") format("woff"),
+    url("fonts/Cera-BlackCondensedItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
