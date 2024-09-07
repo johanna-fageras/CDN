@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "GT Maru Mega Mini";
+  src: url("fonts/GTMaruMega-Mini.eot");
+  src: url("fonts/GTMaruMega-Mini.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMega-Mini.woff2") format("woff2"),
+    url("fonts/GTMaruMega-Mini.woff") format("woff"),
+    url("fonts/GTMaruMega-Mini.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mega Midi";
+  src: url("fonts/GTMaruMega-Midi.eot");
+  src: url("fonts/GTMaruMega-Midi.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMega-Midi.woff2") format("woff2"),
+    url("fonts/GTMaruMega-Midi.woff") format("woff"),
+    url("fonts/GTMaruMega-Midi.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mega Maxi";
+  src: url("fonts/GTMaruMega-Maxi.eot");
+  src: url("fonts/GTMaruMega-Maxi.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMega-Maxi.woff2") format("woff2"),
+    url("fonts/GTMaruMega-Maxi.woff") format("woff"),
+    url("fonts/GTMaruMega-Maxi.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

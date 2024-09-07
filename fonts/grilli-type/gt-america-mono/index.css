@@ -1,0 +1,174 @@
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-Thin.eot");
+  src: url("fonts/GTAmericaMono-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAmericaMono-Thin.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-Thin.woff") format("woff"),
+    url("fonts/GTAmericaMono-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-ThinItalic.eot");
+  src: url("fonts/GTAmericaMono-ThinItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAmericaMono-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-ThinItalic.woff") format("woff"),
+    url("fonts/GTAmericaMono-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-ExtraLight.eot");
+  src: url("fonts/GTAmericaMono-ExtraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAmericaMono-ExtraLight.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-ExtraLight.woff") format("woff"),
+    url("fonts/GTAmericaMono-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-ExtLtIta.eot");
+  src: url("fonts/GTAmericaMono-ExtLtIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAmericaMono-ExtLtIta.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-ExtLtIta.woff") format("woff"),
+    url("fonts/GTAmericaMono-ExtLtIta.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-Light.eot");
+  src: url("fonts/GTAmericaMono-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAmericaMono-Light.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-Light.woff") format("woff"),
+    url("fonts/GTAmericaMono-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-LightItalic.eot");
+  src: url("fonts/GTAmericaMono-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAmericaMono-LightItalic.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-LightItalic.woff") format("woff"),
+    url("fonts/GTAmericaMono-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-Regular.eot");
+  src: url("fonts/GTAmericaMono-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAmericaMono-Regular.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-Regular.woff") format("woff"),
+    url("fonts/GTAmericaMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-Italic.eot");
+  src: url("fonts/GTAmericaMono-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAmericaMono-Italic.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-Italic.woff") format("woff"),
+    url("fonts/GTAmericaMono-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-Medium.eot");
+  src: url("fonts/GTAmericaMono-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAmericaMono-Medium.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-Medium.woff") format("woff"),
+    url("fonts/GTAmericaMono-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-MediumItalic.eot");
+  src: url("fonts/GTAmericaMono-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAmericaMono-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-MediumItalic.woff") format("woff"),
+    url("fonts/GTAmericaMono-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-Bold.eot");
+  src: url("fonts/GTAmericaMono-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAmericaMono-Bold.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-Bold.woff") format("woff"),
+    url("fonts/GTAmericaMono-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-BoldItalic.eot");
+  src: url("fonts/GTAmericaMono-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAmericaMono-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-BoldItalic.woff") format("woff"),
+    url("fonts/GTAmericaMono-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-Black.eot");
+  src: url("fonts/GTAmericaMono-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAmericaMono-Black.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-Black.woff") format("woff"),
+    url("fonts/GTAmericaMono-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT America Mono";
+  src: url("fonts/GTAmericaMono-BlackItalic.eot");
+  src: url("fonts/GTAmericaMono-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAmericaMono-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTAmericaMono-BlackItalic.woff") format("woff"),
+    url("fonts/GTAmericaMono-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

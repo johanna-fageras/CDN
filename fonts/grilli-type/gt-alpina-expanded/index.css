@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-ThinExpanded.eot");
+  src: url("fonts/GTAlpina-ThinExpanded.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-ThinExpanded.woff2") format("woff2"),
+    url("fonts/GTAlpina-ThinExpanded.woff") format("woff"),
+    url("fonts/GTAlpina-ThinExpanded.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-ThinExpandedItalic.eot");
+  src: url("fonts/GTAlpina-ThinExpandedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-ThinExpandedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-ThinExpandedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-ThinExpandedItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-LightExpanded.eot");
+  src: url("fonts/GTAlpina-LightExpanded.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-LightExpanded.woff2") format("woff2"),
+    url("fonts/GTAlpina-LightExpanded.woff") format("woff"),
+    url("fonts/GTAlpina-LightExpanded.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-LightExpandedItalic.eot");
+  src: url("fonts/GTAlpina-LightExpandedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-LightExpandedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-LightExpandedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-LightExpandedItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-Expanded.eot");
+  src: url("fonts/GTAlpina-Expanded.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-Expanded.woff2") format("woff2"),
+    url("fonts/GTAlpina-Expanded.woff") format("woff"),
+    url("fonts/GTAlpina-Expanded.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-ExpandedItalic.eot");
+  src: url("fonts/GTAlpina-ExpandedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-ExpandedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-ExpandedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-ExpandedItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-MediumExpanded.eot");
+  src: url("fonts/GTAlpina-MediumExpanded.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-MediumExpanded.woff2") format("woff2"),
+    url("fonts/GTAlpina-MediumExpanded.woff") format("woff"),
+    url("fonts/GTAlpina-MediumExpanded.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-MediumExpandedItalic.eot");
+  src: url("fonts/GTAlpina-MediumExpandedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-MediumExpandedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-MediumExpandedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-MediumExpandedItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-BoldExpanded.eot");
+  src: url("fonts/GTAlpina-BoldExpanded.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-BoldExpanded.woff2") format("woff2"),
+    url("fonts/GTAlpina-BoldExpanded.woff") format("woff"),
+    url("fonts/GTAlpina-BoldExpanded.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Expanded";
+  src: url("fonts/GTAlpina-BoldExpandedItalic.eot");
+  src: url("fonts/GTAlpina-BoldExpandedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-BoldExpandedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-BoldExpandedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-BoldExpandedItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

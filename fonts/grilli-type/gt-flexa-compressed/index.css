@@ -1,0 +1,177 @@
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-ThinCondensed.eot");
+  src: url("fonts/GTFlexa-ThinCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-ThinCondensed.woff2") format("woff2"),
+    url("fonts/GTFlexa-ThinCondensed.woff") format("woff"),
+    url("fonts/GTFlexa-ThinCondensed.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-ThinCondensedItalic.eot");
+  src: url("fonts/GTFlexa-ThinCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-ThinCondensedItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-ThinCondensedItalic.woff") format("woff"),
+    url("fonts/GTFlexa-ThinCondensedItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-ExtraLightCondensed.eot");
+  src: url("fonts/GTFlexa-ExtraLightCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-ExtraLightCondensed.woff2") format("woff2"),
+    url("fonts/GTFlexa-ExtraLightCondensed.woff") format("woff"),
+    url("fonts/GTFlexa-ExtraLightCondensed.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-ExtLtCondIta.eot");
+  src: url("fonts/GTFlexa-ExtLtCondIta.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-ExtLtCondIta.woff2") format("woff2"),
+    url("fonts/GTFlexa-ExtLtCondIta.woff") format("woff"),
+    url("fonts/GTFlexa-ExtLtCondIta.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-LightCondensed.eot");
+  src: url("fonts/GTFlexa-LightCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-LightCondensed.woff2") format("woff2"),
+    url("fonts/GTFlexa-LightCondensed.woff") format("woff"),
+    url("fonts/GTFlexa-LightCondensed.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-LightCondensedItalic.eot");
+  src: url("fonts/GTFlexa-LightCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-LightCondensedItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-LightCondensedItalic.woff") format("woff"),
+    url("fonts/GTFlexa-LightCondensedItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-Condensed.eot");
+  src: url("fonts/GTFlexa-Condensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-Condensed.woff2") format("woff2"),
+    url("fonts/GTFlexa-Condensed.woff") format("woff"),
+    url("fonts/GTFlexa-Condensed.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-CondensedItalic.eot");
+  src: url("fonts/GTFlexa-CondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-CondensedItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-CondensedItalic.woff") format("woff"),
+    url("fonts/GTFlexa-CondensedItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-MediumCondensed.eot");
+  src: url("fonts/GTFlexa-MediumCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-MediumCondensed.woff2") format("woff2"),
+    url("fonts/GTFlexa-MediumCondensed.woff") format("woff"),
+    url("fonts/GTFlexa-MediumCondensed.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-MediumCondensedItalic.eot");
+  src: url("fonts/GTFlexa-MediumCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-MediumCondensedItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-MediumCondensedItalic.woff") format("woff"),
+    url("fonts/GTFlexa-MediumCondensedItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-BoldCondensed.eot");
+  src: url("fonts/GTFlexa-BoldCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-BoldCondensed.woff2") format("woff2"),
+    url("fonts/GTFlexa-BoldCondensed.woff") format("woff"),
+    url("fonts/GTFlexa-BoldCondensed.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-BoldCondensedItalic.eot");
+  src: url("fonts/GTFlexa-BoldCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-BoldCondensedItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-BoldCondensedItalic.woff") format("woff"),
+    url("fonts/GTFlexa-BoldCondensedItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-BlackCondensed.eot");
+  src: url("fonts/GTFlexa-BlackCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-BlackCondensed.woff2") format("woff2"),
+    url("fonts/GTFlexa-BlackCondensed.woff") format("woff"),
+    url("fonts/GTFlexa-BlackCondensed.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Compressed";
+  src: url("fonts/GTFlexa-BlackCondensedItalic.eot");
+  src: url("fonts/GTFlexa-BlackCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-BlackCondensedItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-BlackCondensedItalic.woff") format("woff"),
+    url("fonts/GTFlexa-BlackCondensedItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

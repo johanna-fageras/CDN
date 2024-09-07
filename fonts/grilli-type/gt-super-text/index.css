@@ -1,0 +1,123 @@
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-Light.eot");
+  src: url("fonts/GTSuperText-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSuperText-Light.woff2") format("woff2"),
+    url("fonts/GTSuperText-Light.woff") format("woff"),
+    url("fonts/GTSuperText-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-LightItalic.eot");
+  src: url("fonts/GTSuperText-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSuperText-LightItalic.woff2") format("woff2"),
+    url("fonts/GTSuperText-LightItalic.woff") format("woff"),
+    url("fonts/GTSuperText-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-Regular.eot");
+  src: url("fonts/GTSuperText-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSuperText-Regular.woff2") format("woff2"),
+    url("fonts/GTSuperText-Regular.woff") format("woff"),
+    url("fonts/GTSuperText-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-Italic.eot");
+  src: url("fonts/GTSuperText-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSuperText-Italic.woff2") format("woff2"),
+    url("fonts/GTSuperText-Italic.woff") format("woff"),
+    url("fonts/GTSuperText-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-Medium.eot");
+  src: url("fonts/GTSuperText-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSuperText-Medium.woff2") format("woff2"),
+    url("fonts/GTSuperText-Medium.woff") format("woff"),
+    url("fonts/GTSuperText-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-MediumItalic.eot");
+  src: url("fonts/GTSuperText-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSuperText-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTSuperText-MediumItalic.woff") format("woff"),
+    url("fonts/GTSuperText-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-Bold.eot");
+  src: url("fonts/GTSuperText-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSuperText-Bold.woff2") format("woff2"),
+    url("fonts/GTSuperText-Bold.woff") format("woff"),
+    url("fonts/GTSuperText-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-BoldItalic.eot");
+  src: url("fonts/GTSuperText-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSuperText-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTSuperText-BoldItalic.woff") format("woff"),
+    url("fonts/GTSuperText-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-Black.eot");
+  src: url("fonts/GTSuperText-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSuperText-Black.woff2") format("woff2"),
+    url("fonts/GTSuperText-Black.woff") format("woff"),
+    url("fonts/GTSuperText-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Super Text";
+  src: url("fonts/GTSuperText-BlackItalic.eot");
+  src: url("fonts/GTSuperText-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSuperText-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTSuperText-BlackItalic.woff") format("woff"),
+    url("fonts/GTSuperText-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

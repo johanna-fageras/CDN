@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "GT Haptik Rotalic";
+  src: url("fonts/GTHaptik-ThinRotalic.eot");
+  src: url("fonts/GTHaptik-ThinRotalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-ThinRotalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-ThinRotalic.woff") format("woff"),
+    url("fonts/GTHaptik-ThinRotalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik Rotalic";
+  src: url("fonts/GTHaptik-ExtraLightRotalic.eot");
+  src: url("fonts/GTHaptik-ExtraLightRotalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTHaptik-ExtraLightRotalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-ExtraLightRotalic.woff") format("woff"),
+    url("fonts/GTHaptik-ExtraLightRotalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik Rotalic";
+  src: url("fonts/GTHaptik-LightRotalic.eot");
+  src: url("fonts/GTHaptik-LightRotalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-LightRotalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-LightRotalic.woff") format("woff"),
+    url("fonts/GTHaptik-LightRotalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik Rotalic";
+  src: url("fonts/GTHaptik-Rotalic.eot");
+  src: url("fonts/GTHaptik-Rotalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-Rotalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-Rotalic.woff") format("woff"),
+    url("fonts/GTHaptik-Rotalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik Rotalic";
+  src: url("fonts/GTHaptik-MediumRotalic.eot");
+  src: url("fonts/GTHaptik-MediumRotalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTHaptik-MediumRotalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-MediumRotalic.woff") format("woff"),
+    url("fonts/GTHaptik-MediumRotalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik Rotalic";
+  src: url("fonts/GTHaptik-BoldRotalic.eot");
+  src: url("fonts/GTHaptik-BoldRotalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-BoldRotalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-BoldRotalic.woff") format("woff"),
+    url("fonts/GTHaptik-BoldRotalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik Rotalic";
+  src: url("fonts/GTHaptik-BlackRotalic.eot");
+  src: url("fonts/GTHaptik-BlackRotalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-BlackRotalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-BlackRotalic.woff") format("woff"),
+    url("fonts/GTHaptik-BlackRotalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

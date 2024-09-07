@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "GT Planar Retalic 30";
+  src: url("fonts/GTPlanar-Retalic30Thin.eot");
+  src: url("fonts/GTPlanar-Retalic30Thin.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Retalic30Thin.woff2") format("woff2"),
+    url("fonts/GTPlanar-Retalic30Thin.woff") format("woff"),
+    url("fonts/GTPlanar-Retalic30Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Retalic 30";
+  src: url("fonts/GTPlanar-Retalic30Light.eot");
+  src: url("fonts/GTPlanar-Retalic30Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Retalic30Light.woff2") format("woff2"),
+    url("fonts/GTPlanar-Retalic30Light.woff") format("woff"),
+    url("fonts/GTPlanar-Retalic30Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Retalic 30";
+  src: url("fonts/GTPlanar-Retalic30Regular.eot");
+  src: url("fonts/GTPlanar-Retalic30Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Retalic30Regular.woff2") format("woff2"),
+    url("fonts/GTPlanar-Retalic30Regular.woff") format("woff"),
+    url("fonts/GTPlanar-Retalic30Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Retalic 30";
+  src: url("fonts/GTPlanar-Retalic30Medium.eot");
+  src: url("fonts/GTPlanar-Retalic30Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Retalic30Medium.woff2") format("woff2"),
+    url("fonts/GTPlanar-Retalic30Medium.woff") format("woff"),
+    url("fonts/GTPlanar-Retalic30Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Retalic 30";
+  src: url("fonts/GTPlanar-Retalic30Bold.eot");
+  src: url("fonts/GTPlanar-Retalic30Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Retalic30Bold.woff2") format("woff2"),
+    url("fonts/GTPlanar-Retalic30Bold.woff") format("woff"),
+    url("fonts/GTPlanar-Retalic30Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Retalic 30";
+  src: url("fonts/GTPlanar-Retalic30Black.eot");
+  src: url("fonts/GTPlanar-Retalic30Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Retalic30Black.woff2") format("woff2"),
+    url("fonts/GTPlanar-Retalic30Black.woff") format("woff"),
+    url("fonts/GTPlanar-Retalic30Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

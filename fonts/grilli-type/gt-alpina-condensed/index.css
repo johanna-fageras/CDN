@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-ThinCondensed.eot");
+  src: url("fonts/GTAlpina-ThinCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-ThinCondensed.woff2") format("woff2"),
+    url("fonts/GTAlpina-ThinCondensed.woff") format("woff"),
+    url("fonts/GTAlpina-ThinCondensed.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-ThinCondensedItalic.eot");
+  src: url("fonts/GTAlpina-ThinCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-ThinCondensedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-ThinCondensedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-ThinCondensedItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-LightCondensed.eot");
+  src: url("fonts/GTAlpina-LightCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-LightCondensed.woff2") format("woff2"),
+    url("fonts/GTAlpina-LightCondensed.woff") format("woff"),
+    url("fonts/GTAlpina-LightCondensed.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-LightCondensedItalic.eot");
+  src: url("fonts/GTAlpina-LightCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-LightCondensedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-LightCondensedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-LightCondensedItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-Condensed.eot");
+  src: url("fonts/GTAlpina-Condensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-Condensed.woff2") format("woff2"),
+    url("fonts/GTAlpina-Condensed.woff") format("woff"),
+    url("fonts/GTAlpina-Condensed.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-CondensedItalic.eot");
+  src: url("fonts/GTAlpina-CondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-CondensedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-CondensedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-CondensedItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-MediumCondensed.eot");
+  src: url("fonts/GTAlpina-MediumCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-MediumCondensed.woff2") format("woff2"),
+    url("fonts/GTAlpina-MediumCondensed.woff") format("woff"),
+    url("fonts/GTAlpina-MediumCondensed.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-MedCondIta.eot");
+  src: url("fonts/GTAlpina-MedCondIta.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-MedCondIta.woff2") format("woff2"),
+    url("fonts/GTAlpina-MedCondIta.woff") format("woff"),
+    url("fonts/GTAlpina-MedCondIta.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-BoldCondensed.eot");
+  src: url("fonts/GTAlpina-BoldCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-BoldCondensed.woff2") format("woff2"),
+    url("fonts/GTAlpina-BoldCondensed.woff") format("woff"),
+    url("fonts/GTAlpina-BoldCondensed.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("fonts/GTAlpina-BoldCondensedItalic.eot");
+  src: url("fonts/GTAlpina-BoldCondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpina-BoldCondensedItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-BoldCondensedItalic.woff") format("woff"),
+    url("fonts/GTAlpina-BoldCondensedItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

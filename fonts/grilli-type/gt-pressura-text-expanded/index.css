@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "GT Pressura Text Expanded";
+  src: url("fonts/GTPressuraText-Expanded.eot");
+  src: url("fonts/GTPressuraText-Expanded.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressuraText-Expanded.woff2") format("woff2"),
+    url("fonts/GTPressuraText-Expanded.woff") format("woff"),
+    url("fonts/GTPressuraText-Expanded.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Text Expanded";
+  src: url("fonts/GTPressuraText-ExpandedItalic.eot");
+  src: url("fonts/GTPressuraText-ExpandedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressuraText-ExpandedItalic.woff2") format("woff2"),
+    url("fonts/GTPressuraText-ExpandedItalic.woff") format("woff"),
+    url("fonts/GTPressuraText-ExpandedItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}

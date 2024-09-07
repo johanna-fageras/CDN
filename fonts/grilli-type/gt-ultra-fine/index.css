@@ -1,0 +1,136 @@
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-Thin.eot");
+  src: url("fonts/GTUltraFine-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraFine-Thin.woff2") format("woff2"),
+    url("fonts/GTUltraFine-Thin.woff") format("woff"),
+    url("fonts/GTUltraFine-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-ThinItalic.eot");
+  src: url("fonts/GTUltraFine-ThinItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraFine-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTUltraFine-ThinItalic.woff") format("woff"),
+    url("fonts/GTUltraFine-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-Light.eot");
+  src: url("fonts/GTUltraFine-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraFine-Light.woff2") format("woff2"),
+    url("fonts/GTUltraFine-Light.woff") format("woff"),
+    url("fonts/GTUltraFine-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-LightItalic.eot");
+  src: url("fonts/GTUltraFine-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraFine-LightItalic.woff2") format("woff2"),
+    url("fonts/GTUltraFine-LightItalic.woff") format("woff"),
+    url("fonts/GTUltraFine-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-Regular.eot");
+  src: url("fonts/GTUltraFine-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraFine-Regular.woff2") format("woff2"),
+    url("fonts/GTUltraFine-Regular.woff") format("woff"),
+    url("fonts/GTUltraFine-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-Italic.eot");
+  src: url("fonts/GTUltraFine-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraFine-Italic.woff2") format("woff2"),
+    url("fonts/GTUltraFine-Italic.woff") format("woff"),
+    url("fonts/GTUltraFine-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-Bold.eot");
+  src: url("fonts/GTUltraFine-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraFine-Bold.woff2") format("woff2"),
+    url("fonts/GTUltraFine-Bold.woff") format("woff"),
+    url("fonts/GTUltraFine-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-BoldItalic.eot");
+  src: url("fonts/GTUltraFine-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraFine-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTUltraFine-BoldItalic.woff") format("woff"),
+    url("fonts/GTUltraFine-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-Black.eot");
+  src: url("fonts/GTUltraFine-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraFine-Black.woff2") format("woff2"),
+    url("fonts/GTUltraFine-Black.woff") format("woff"),
+    url("fonts/GTUltraFine-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-BlackItalic.eot");
+  src: url("fonts/GTUltraFine-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraFine-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTUltraFine-BlackItalic.woff") format("woff"),
+    url("fonts/GTUltraFine-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Fine";
+  src: url("fonts/GTUltraFine-ExtraBlack.eot");
+  src: url("fonts/GTUltraFine-ExtraBlack.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraFine-ExtraBlack.woff2") format("woff2"),
+    url("fonts/GTUltraFine-ExtraBlack.woff") format("woff"),
+    url("fonts/GTUltraFine-ExtraBlack.ttf") format("truetype");
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}

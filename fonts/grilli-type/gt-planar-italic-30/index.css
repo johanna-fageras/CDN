@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "GT Planar Italic 30";
+  src: url("fonts/GTPlanar-Italic30Thin.eot");
+  src: url("fonts/GTPlanar-Italic30Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPlanar-Italic30Thin.woff2") format("woff2"),
+    url("fonts/GTPlanar-Italic30Thin.woff") format("woff"),
+    url("fonts/GTPlanar-Italic30Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Italic 30";
+  src: url("fonts/GTPlanar-Italic30Light.eot");
+  src: url("fonts/GTPlanar-Italic30Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Italic30Light.woff2") format("woff2"),
+    url("fonts/GTPlanar-Italic30Light.woff") format("woff"),
+    url("fonts/GTPlanar-Italic30Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Italic 30";
+  src: url("fonts/GTPlanar-Italic30Regular.eot");
+  src: url("fonts/GTPlanar-Italic30Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Italic30Regular.woff2") format("woff2"),
+    url("fonts/GTPlanar-Italic30Regular.woff") format("woff"),
+    url("fonts/GTPlanar-Italic30Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Italic 30";
+  src: url("fonts/GTPlanar-Italic30Medium.eot");
+  src: url("fonts/GTPlanar-Italic30Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Italic30Medium.woff2") format("woff2"),
+    url("fonts/GTPlanar-Italic30Medium.woff") format("woff"),
+    url("fonts/GTPlanar-Italic30Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Italic 30";
+  src: url("fonts/GTPlanar-Italic30Bold.eot");
+  src: url("fonts/GTPlanar-Italic30Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPlanar-Italic30Bold.woff2") format("woff2"),
+    url("fonts/GTPlanar-Italic30Bold.woff") format("woff"),
+    url("fonts/GTPlanar-Italic30Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar Italic 30";
+  src: url("fonts/GTPlanar-Italic30Black.eot");
+  src: url("fonts/GTPlanar-Italic30Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPlanar-Italic30Black.woff2") format("woff2"),
+    url("fonts/GTPlanar-Italic30Black.woff") format("woff"),
+    url("fonts/GTPlanar-Italic30Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

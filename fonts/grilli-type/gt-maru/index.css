@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-Light.eot");
+  src: url("fonts/GTMaru-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-Light.woff2") format("woff2"),
+    url("fonts/GTMaru-Light.woff") format("woff"),
+    url("fonts/GTMaru-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-LightItalic.eot");
+  src: url("fonts/GTMaru-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-LightItalic.woff2") format("woff2"),
+    url("fonts/GTMaru-LightItalic.woff") format("woff"),
+    url("fonts/GTMaru-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-Regular.eot");
+  src: url("fonts/GTMaru-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-Regular.woff2") format("woff2"),
+    url("fonts/GTMaru-Regular.woff") format("woff"),
+    url("fonts/GTMaru-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-Italic.eot");
+  src: url("fonts/GTMaru-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-Italic.woff2") format("woff2"),
+    url("fonts/GTMaru-Italic.woff") format("woff"),
+    url("fonts/GTMaru-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-Medium.eot");
+  src: url("fonts/GTMaru-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-Medium.woff2") format("woff2"),
+    url("fonts/GTMaru-Medium.woff") format("woff"),
+    url("fonts/GTMaru-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-MediumItalic.eot");
+  src: url("fonts/GTMaru-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTMaru-MediumItalic.woff") format("woff"),
+    url("fonts/GTMaru-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-Bold.eot");
+  src: url("fonts/GTMaru-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-Bold.woff2") format("woff2"),
+    url("fonts/GTMaru-Bold.woff") format("woff"),
+    url("fonts/GTMaru-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-BoldItalic.eot");
+  src: url("fonts/GTMaru-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTMaru-BoldItalic.woff") format("woff"),
+    url("fonts/GTMaru-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-Black.eot");
+  src: url("fonts/GTMaru-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-Black.woff2") format("woff2"),
+    url("fonts/GTMaru-Black.woff") format("woff"),
+    url("fonts/GTMaru-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru";
+  src: url("fonts/GTMaru-BlackItalic.eot");
+  src: url("fonts/GTMaru-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaru-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTMaru-BlackItalic.woff") format("woff"),
+    url("fonts/GTMaru-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

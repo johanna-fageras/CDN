@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-LightExpanded.eot");
+  src: url("fonts/GTPressura-LightExpanded.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-LightExpanded.woff2") format("woff2"),
+    url("fonts/GTPressura-LightExpanded.woff") format("woff"),
+    url("fonts/GTPressura-LightExpanded.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-LightExpIta.eot");
+  src: url("fonts/GTPressura-LightExpIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-LightExpIta.woff2") format("woff2"),
+    url("fonts/GTPressura-LightExpIta.woff") format("woff"),
+    url("fonts/GTPressura-LightExpIta.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-Expanded.eot");
+  src: url("fonts/GTPressura-Expanded.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-Expanded.woff2") format("woff2"),
+    url("fonts/GTPressura-Expanded.woff") format("woff"),
+    url("fonts/GTPressura-Expanded.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-ExpandedItalic.eot");
+  src: url("fonts/GTPressura-ExpandedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-ExpandedItalic.woff2") format("woff2"),
+    url("fonts/GTPressura-ExpandedItalic.woff") format("woff"),
+    url("fonts/GTPressura-ExpandedItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-MediumExpanded.eot");
+  src: url("fonts/GTPressura-MediumExpanded.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-MediumExpanded.woff2") format("woff2"),
+    url("fonts/GTPressura-MediumExpanded.woff") format("woff"),
+    url("fonts/GTPressura-MediumExpanded.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-MedExpIta.eot");
+  src: url("fonts/GTPressura-MedExpIta.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-MedExpIta.woff2") format("woff2"),
+    url("fonts/GTPressura-MedExpIta.woff") format("woff"),
+    url("fonts/GTPressura-MedExpIta.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-BoldExpanded.eot");
+  src: url("fonts/GTPressura-BoldExpanded.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-BoldExpanded.woff2") format("woff2"),
+    url("fonts/GTPressura-BoldExpanded.woff") format("woff"),
+    url("fonts/GTPressura-BoldExpanded.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-BoldExpandedItalic.eot");
+  src: url("fonts/GTPressura-BoldExpandedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-BoldExpandedItalic.woff2") format("woff2"),
+    url("fonts/GTPressura-BoldExpandedItalic.woff") format("woff"),
+    url("fonts/GTPressura-BoldExpandedItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-BlackExpanded.eot");
+  src: url("fonts/GTPressura-BlackExpanded.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-BlackExpanded.woff2") format("woff2"),
+    url("fonts/GTPressura-BlackExpanded.woff") format("woff"),
+    url("fonts/GTPressura-BlackExpanded.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Expanded";
+  src: url("fonts/GTPressura-BlackExpIta.eot");
+  src: url("fonts/GTPressura-BlackExpIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-BlackExpIta.woff2") format("woff2"),
+    url("fonts/GTPressura-BlackExpIta.woff") format("woff"),
+    url("fonts/GTPressura-BlackExpIta.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

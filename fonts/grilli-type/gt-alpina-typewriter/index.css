@@ -1,0 +1,129 @@
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-Thin.eot");
+  src: url("fonts/GTAlpinaTypewriter-Thin.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-Thin.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-Thin.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-ThinItalic.eot");
+  src: url("fonts/GTAlpinaTypewriter-ThinItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-ThinItalic.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-Light.eot");
+  src: url("fonts/GTAlpinaTypewriter-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-Light.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-Light.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-LightIta.eot");
+  src: url("fonts/GTAlpinaTypewriter-LightIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-LightIta.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-LightIta.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-LightIta.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-Regular.eot");
+  src: url("fonts/GTAlpinaTypewriter-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-Regular.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-Regular.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-Italic.eot");
+  src: url("fonts/GTAlpinaTypewriter-Italic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-Italic.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-Italic.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-Medium.eot");
+  src: url("fonts/GTAlpinaTypewriter-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-Medium.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-Medium.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-MedIta.eot");
+  src: url("fonts/GTAlpinaTypewriter-MedIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-MedIta.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-MedIta.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-MedIta.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-Bold.eot");
+  src: url("fonts/GTAlpinaTypewriter-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-Bold.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-Bold.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("fonts/GTAlpinaTypewriter-BoldItalic.eot");
+  src: url("fonts/GTAlpinaTypewriter-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTAlpinaTypewriter-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTAlpinaTypewriter-BoldItalic.woff") format("woff"),
+    url("fonts/GTAlpinaTypewriter-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

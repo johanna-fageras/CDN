@@ -1,0 +1,122 @@
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-Light.eot");
+  src: url("fonts/GTPressura-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-Light.woff2") format("woff2"),
+    url("fonts/GTPressura-Light.woff") format("woff"),
+    url("fonts/GTPressura-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-LightItalic.eot");
+  src: url("fonts/GTPressura-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-LightItalic.woff2") format("woff2"),
+    url("fonts/GTPressura-LightItalic.woff") format("woff"),
+    url("fonts/GTPressura-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-Regular.eot");
+  src: url("fonts/GTPressura-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-Regular.woff2") format("woff2"),
+    url("fonts/GTPressura-Regular.woff") format("woff"),
+    url("fonts/GTPressura-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-Italic.eot");
+  src: url("fonts/GTPressura-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-Italic.woff2") format("woff2"),
+    url("fonts/GTPressura-Italic.woff") format("woff"),
+    url("fonts/GTPressura-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-Medium.eot");
+  src: url("fonts/GTPressura-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-Medium.woff2") format("woff2"),
+    url("fonts/GTPressura-Medium.woff") format("woff"),
+    url("fonts/GTPressura-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-MediumItalic.eot");
+  src: url("fonts/GTPressura-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTPressura-MediumItalic.woff") format("woff"),
+    url("fonts/GTPressura-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-Bold.eot");
+  src: url("fonts/GTPressura-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-Bold.woff2") format("woff2"),
+    url("fonts/GTPressura-Bold.woff") format("woff"),
+    url("fonts/GTPressura-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-BoldItalic.eot");
+  src: url("fonts/GTPressura-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTPressura-BoldItalic.woff") format("woff"),
+    url("fonts/GTPressura-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-Black.eot");
+  src: url("fonts/GTPressura-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPressura-Black.woff2") format("woff2"),
+    url("fonts/GTPressura-Black.woff") format("woff"),
+    url("fonts/GTPressura-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura";
+  src: url("fonts/GTPressura-BlackItalic.eot");
+  src: url("fonts/GTPressura-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTPressura-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTPressura-BlackItalic.woff") format("woff"),
+    url("fonts/GTPressura-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

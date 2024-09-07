@@ -1,0 +1,174 @@
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-Thin.eot");
+  src: url("fonts/GTEestiText-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTEestiText-Thin.woff2") format("woff2"),
+    url("fonts/GTEestiText-Thin.woff") format("woff"),
+    url("fonts/GTEestiText-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-ThinItalic.eot");
+  src: url("fonts/GTEestiText-ThinItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTEestiText-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTEestiText-ThinItalic.woff") format("woff"),
+    url("fonts/GTEestiText-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-ExtraLight.eot");
+  src: url("fonts/GTEestiText-ExtraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTEestiText-ExtraLight.woff2") format("woff2"),
+    url("fonts/GTEestiText-ExtraLight.woff") format("woff"),
+    url("fonts/GTEestiText-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-ExtraLightItalic.eot");
+  src: url("fonts/GTEestiText-ExtraLightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTEestiText-ExtraLightItalic.woff2") format("woff2"),
+    url("fonts/GTEestiText-ExtraLightItalic.woff") format("woff"),
+    url("fonts/GTEestiText-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-Light.eot");
+  src: url("fonts/GTEestiText-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTEestiText-Light.woff2") format("woff2"),
+    url("fonts/GTEestiText-Light.woff") format("woff"),
+    url("fonts/GTEestiText-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-LightItalic.eot");
+  src: url("fonts/GTEestiText-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTEestiText-LightItalic.woff2") format("woff2"),
+    url("fonts/GTEestiText-LightItalic.woff") format("woff"),
+    url("fonts/GTEestiText-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-Regular.eot");
+  src: url("fonts/GTEestiText-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTEestiText-Regular.woff2") format("woff2"),
+    url("fonts/GTEestiText-Regular.woff") format("woff"),
+    url("fonts/GTEestiText-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-Italic.eot");
+  src: url("fonts/GTEestiText-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTEestiText-Italic.woff2") format("woff2"),
+    url("fonts/GTEestiText-Italic.woff") format("woff"),
+    url("fonts/GTEestiText-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-Medium.eot");
+  src: url("fonts/GTEestiText-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTEestiText-Medium.woff2") format("woff2"),
+    url("fonts/GTEestiText-Medium.woff") format("woff"),
+    url("fonts/GTEestiText-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-MediumItalic.eot");
+  src: url("fonts/GTEestiText-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTEestiText-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTEestiText-MediumItalic.woff") format("woff"),
+    url("fonts/GTEestiText-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-SemiBold.eot");
+  src: url("fonts/GTEestiText-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTEestiText-SemiBold.woff2") format("woff2"),
+    url("fonts/GTEestiText-SemiBold.woff") format("woff"),
+    url("fonts/GTEestiText-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-SemiBoldItalic.eot");
+  src: url("fonts/GTEestiText-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTEestiText-SemiBoldItalic.woff2") format("woff2"),
+    url("fonts/GTEestiText-SemiBoldItalic.woff") format("woff"),
+    url("fonts/GTEestiText-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-Bold.eot");
+  src: url("fonts/GTEestiText-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTEestiText-Bold.woff2") format("woff2"),
+    url("fonts/GTEestiText-Bold.woff") format("woff"),
+    url("fonts/GTEestiText-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Eesti Text";
+  src: url("fonts/GTEestiText-BoldItalic.eot");
+  src: url("fonts/GTEestiText-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTEestiText-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTEestiText-BoldItalic.woff") format("woff"),
+    url("fonts/GTEestiText-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

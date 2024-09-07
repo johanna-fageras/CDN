@@ -1,0 +1,168 @@
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-Thin.eot");
+  src: url("fonts/GTFlexa-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-Thin.woff2") format("woff2"),
+    url("fonts/GTFlexa-Thin.woff") format("woff"),
+    url("fonts/GTFlexa-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-ThinItalic.eot");
+  src: url("fonts/GTFlexa-ThinItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-ThinItalic.woff") format("woff"),
+    url("fonts/GTFlexa-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-ExtraLight.eot");
+  src: url("fonts/GTFlexa-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-ExtraLight.woff2") format("woff2"),
+    url("fonts/GTFlexa-ExtraLight.woff") format("woff"),
+    url("fonts/GTFlexa-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-ExtraLightItalic.eot");
+  src: url("fonts/GTFlexa-ExtraLightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexa-ExtraLightItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-ExtraLightItalic.woff") format("woff"),
+    url("fonts/GTFlexa-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-Light.eot");
+  src: url("fonts/GTFlexa-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-Light.woff2") format("woff2"),
+    url("fonts/GTFlexa-Light.woff") format("woff"),
+    url("fonts/GTFlexa-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-LightItalic.eot");
+  src: url("fonts/GTFlexa-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-LightItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-LightItalic.woff") format("woff"),
+    url("fonts/GTFlexa-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-Regular.eot");
+  src: url("fonts/GTFlexa-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-Regular.woff2") format("woff2"),
+    url("fonts/GTFlexa-Regular.woff") format("woff"),
+    url("fonts/GTFlexa-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-Italic.eot");
+  src: url("fonts/GTFlexa-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-Italic.woff2") format("woff2"),
+    url("fonts/GTFlexa-Italic.woff") format("woff"),
+    url("fonts/GTFlexa-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-Medium.eot");
+  src: url("fonts/GTFlexa-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-Medium.woff2") format("woff2"),
+    url("fonts/GTFlexa-Medium.woff") format("woff"),
+    url("fonts/GTFlexa-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-MediumItalic.eot");
+  src: url("fonts/GTFlexa-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-MediumItalic.woff") format("woff"),
+    url("fonts/GTFlexa-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-Bold.eot");
+  src: url("fonts/GTFlexa-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-Bold.woff2") format("woff2"),
+    url("fonts/GTFlexa-Bold.woff") format("woff"),
+    url("fonts/GTFlexa-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-BoldItalic.eot");
+  src: url("fonts/GTFlexa-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-BoldItalic.woff") format("woff"),
+    url("fonts/GTFlexa-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-Black.eot");
+  src: url("fonts/GTFlexa-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-Black.woff2") format("woff2"),
+    url("fonts/GTFlexa-Black.woff") format("woff"),
+    url("fonts/GTFlexa-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa";
+  src: url("fonts/GTFlexa-BlackItalic.eot");
+  src: url("fonts/GTFlexa-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexa-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTFlexa-BlackItalic.woff") format("woff"),
+    url("fonts/GTFlexa-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

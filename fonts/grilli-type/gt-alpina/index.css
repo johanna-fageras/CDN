@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-Thin.eot");
+  src: url("fonts/GTAlpina-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-Thin.woff2") format("woff2"),
+    url("fonts/GTAlpina-Thin.woff") format("woff"),
+    url("fonts/GTAlpina-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-ThinItalic.eot");
+  src: url("fonts/GTAlpina-ThinItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-ThinItalic.woff") format("woff"),
+    url("fonts/GTAlpina-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-Light.eot");
+  src: url("fonts/GTAlpina-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-Light.woff2") format("woff2"),
+    url("fonts/GTAlpina-Light.woff") format("woff"),
+    url("fonts/GTAlpina-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-LightItalic.eot");
+  src: url("fonts/GTAlpina-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-LightItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-LightItalic.woff") format("woff"),
+    url("fonts/GTAlpina-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-Regular.eot");
+  src: url("fonts/GTAlpina-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-Regular.woff2") format("woff2"),
+    url("fonts/GTAlpina-Regular.woff") format("woff"),
+    url("fonts/GTAlpina-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-Italic.eot");
+  src: url("fonts/GTAlpina-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-Italic.woff2") format("woff2"),
+    url("fonts/GTAlpina-Italic.woff") format("woff"),
+    url("fonts/GTAlpina-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-Medium.eot");
+  src: url("fonts/GTAlpina-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-Medium.woff2") format("woff2"),
+    url("fonts/GTAlpina-Medium.woff") format("woff"),
+    url("fonts/GTAlpina-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-MediumItalic.eot");
+  src: url("fonts/GTAlpina-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-MediumItalic.woff") format("woff"),
+    url("fonts/GTAlpina-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-Bold.eot");
+  src: url("fonts/GTAlpina-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-Bold.woff2") format("woff2"),
+    url("fonts/GTAlpina-Bold.woff") format("woff"),
+    url("fonts/GTAlpina-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina";
+  src: url("fonts/GTAlpina-BoldItalic.eot");
+  src: url("fonts/GTAlpina-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTAlpina-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTAlpina-BoldItalic.woff") format("woff"),
+    url("fonts/GTAlpina-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

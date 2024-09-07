@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "GT Cinetype";
+  src: url("fonts/GTCinetype-Light.eot");
+  src: url("fonts/GTCinetype-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTCinetype-Light.woff2") format("woff2"),
+    url("fonts/GTCinetype-Light.woff") format("woff"),
+    url("fonts/GTCinetype-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Cinetype";
+  src: url("fonts/GTCinetype-LightItalic.eot");
+  src: url("fonts/GTCinetype-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTCinetype-LightItalic.woff2") format("woff2"),
+    url("fonts/GTCinetype-LightItalic.woff") format("woff"),
+    url("fonts/GTCinetype-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Cinetype";
+  src: url("fonts/GTCinetype-Regular.eot");
+  src: url("fonts/GTCinetype-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTCinetype-Regular.woff2") format("woff2"),
+    url("fonts/GTCinetype-Regular.woff") format("woff"),
+    url("fonts/GTCinetype-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Cinetype";
+  src: url("fonts/GTCinetype-Italic.eot");
+  src: url("fonts/GTCinetype-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTCinetype-Italic.woff2") format("woff2"),
+    url("fonts/GTCinetype-Italic.woff") format("woff"),
+    url("fonts/GTCinetype-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Cinetype";
+  src: url("fonts/GTCinetype-Bold.eot");
+  src: url("fonts/GTCinetype-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTCinetype-Bold.woff2") format("woff2"),
+    url("fonts/GTCinetype-Bold.woff") format("woff"),
+    url("fonts/GTCinetype-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Cinetype";
+  src: url("fonts/GTCinetype-BoldItalic.eot");
+  src: url("fonts/GTCinetype-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTCinetype-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTCinetype-BoldItalic.woff") format("woff"),
+    url("fonts/GTCinetype-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

@@ -1,0 +1,193 @@
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-Thin.eot");
+  src: url("fonts/GTZirkon-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-Thin.woff2") format("woff2"),
+    url("fonts/GTZirkon-Thin.woff") format("woff"),
+    url("fonts/GTZirkon-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-ThinItalic.eot");
+  src: url("fonts/GTZirkon-ThinItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTZirkon-ThinItalic.woff") format("woff"),
+    url("fonts/GTZirkon-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-ExtraLight.eot");
+  src: url("fonts/GTZirkon-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-ExtraLight.woff2") format("woff2"),
+    url("fonts/GTZirkon-ExtraLight.woff") format("woff"),
+    url("fonts/GTZirkon-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-ExtraLightItalic.eot");
+  src: url("fonts/GTZirkon-ExtraLightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTZirkon-ExtraLightItalic.woff2") format("woff2"),
+    url("fonts/GTZirkon-ExtraLightItalic.woff") format("woff"),
+    url("fonts/GTZirkon-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-Light.eot");
+  src: url("fonts/GTZirkon-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-Light.woff2") format("woff2"),
+    url("fonts/GTZirkon-Light.woff") format("woff"),
+    url("fonts/GTZirkon-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-LightItalic.eot");
+  src: url("fonts/GTZirkon-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-LightItalic.woff2") format("woff2"),
+    url("fonts/GTZirkon-LightItalic.woff") format("woff"),
+    url("fonts/GTZirkon-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-Regular.eot");
+  src: url("fonts/GTZirkon-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-Regular.woff2") format("woff2"),
+    url("fonts/GTZirkon-Regular.woff") format("woff"),
+    url("fonts/GTZirkon-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-Italic.eot");
+  src: url("fonts/GTZirkon-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-Italic.woff2") format("woff2"),
+    url("fonts/GTZirkon-Italic.woff") format("woff"),
+    url("fonts/GTZirkon-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-Medium.eot");
+  src: url("fonts/GTZirkon-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-Medium.woff2") format("woff2"),
+    url("fonts/GTZirkon-Medium.woff") format("woff"),
+    url("fonts/GTZirkon-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-MediumItalic.eot");
+  src: url("fonts/GTZirkon-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTZirkon-MediumItalic.woff") format("woff"),
+    url("fonts/GTZirkon-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-SemiBold.eot");
+  src: url("fonts/GTZirkon-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-SemiBold.woff2") format("woff2"),
+    url("fonts/GTZirkon-SemiBold.woff") format("woff"),
+    url("fonts/GTZirkon-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-SemiBoldItalic.eot");
+  src: url("fonts/GTZirkon-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTZirkon-SemiBoldItalic.woff2") format("woff2"),
+    url("fonts/GTZirkon-SemiBoldItalic.woff") format("woff"),
+    url("fonts/GTZirkon-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-Bold.eot");
+  src: url("fonts/GTZirkon-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-Bold.woff2") format("woff2"),
+    url("fonts/GTZirkon-Bold.woff") format("woff"),
+    url("fonts/GTZirkon-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-BoldItalic.eot");
+  src: url("fonts/GTZirkon-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTZirkon-BoldItalic.woff") format("woff"),
+    url("fonts/GTZirkon-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-Black.eot");
+  src: url("fonts/GTZirkon-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-Black.woff2") format("woff2"),
+    url("fonts/GTZirkon-Black.woff") format("woff"),
+    url("fonts/GTZirkon-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Zirkon";
+  src: url("fonts/GTZirkon-BlackItalic.eot");
+  src: url("fonts/GTZirkon-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTZirkon-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTZirkon-BlackItalic.woff") format("woff"),
+    url("fonts/GTZirkon-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

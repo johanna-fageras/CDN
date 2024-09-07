@@ -1,0 +1,168 @@
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-Thin.eot");
+  src: url("fonts/GTHaptik-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-Thin.woff2") format("woff2"),
+    url("fonts/GTHaptik-Thin.woff") format("woff"),
+    url("fonts/GTHaptik-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-ThinItalic.eot");
+  src: url("fonts/GTHaptik-ThinItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-ThinItalic.woff") format("woff"),
+    url("fonts/GTHaptik-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-ExtraLight.eot");
+  src: url("fonts/GTHaptik-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-ExtraLight.woff2") format("woff2"),
+    url("fonts/GTHaptik-ExtraLight.woff") format("woff"),
+    url("fonts/GTHaptik-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-ExtraLightItalic.eot");
+  src: url("fonts/GTHaptik-ExtraLightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTHaptik-ExtraLightItalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-ExtraLightItalic.woff") format("woff"),
+    url("fonts/GTHaptik-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-Light.eot");
+  src: url("fonts/GTHaptik-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-Light.woff2") format("woff2"),
+    url("fonts/GTHaptik-Light.woff") format("woff"),
+    url("fonts/GTHaptik-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-LightItalic.eot");
+  src: url("fonts/GTHaptik-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-LightItalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-LightItalic.woff") format("woff"),
+    url("fonts/GTHaptik-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-Regular.eot");
+  src: url("fonts/GTHaptik-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-Regular.woff2") format("woff2"),
+    url("fonts/GTHaptik-Regular.woff") format("woff"),
+    url("fonts/GTHaptik-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-Italic.eot");
+  src: url("fonts/GTHaptik-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-Italic.woff2") format("woff2"),
+    url("fonts/GTHaptik-Italic.woff") format("woff"),
+    url("fonts/GTHaptik-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-Medium.eot");
+  src: url("fonts/GTHaptik-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-Medium.woff2") format("woff2"),
+    url("fonts/GTHaptik-Medium.woff") format("woff"),
+    url("fonts/GTHaptik-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-MediumItalic.eot");
+  src: url("fonts/GTHaptik-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-MediumItalic.woff") format("woff"),
+    url("fonts/GTHaptik-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-Bold.eot");
+  src: url("fonts/GTHaptik-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-Bold.woff2") format("woff2"),
+    url("fonts/GTHaptik-Bold.woff") format("woff"),
+    url("fonts/GTHaptik-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-BoldItalic.eot");
+  src: url("fonts/GTHaptik-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-BoldItalic.woff") format("woff"),
+    url("fonts/GTHaptik-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-Black.eot");
+  src: url("fonts/GTHaptik-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-Black.woff2") format("woff2"),
+    url("fonts/GTHaptik-Black.woff") format("woff"),
+    url("fonts/GTHaptik-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Haptik";
+  src: url("fonts/GTHaptik-BlackItalic.eot");
+  src: url("fonts/GTHaptik-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTHaptik-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTHaptik-BlackItalic.woff") format("woff"),
+    url("fonts/GTHaptik-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

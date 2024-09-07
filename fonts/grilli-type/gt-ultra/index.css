@@ -1,0 +1,131 @@
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-Thin.eot");
+  src: url("fonts/GTUltra-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-Thin.woff2") format("woff2"),
+    url("fonts/GTUltra-Thin.woff") format("woff"),
+    url("fonts/GTUltra-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-ThinItalic.eot");
+  src: url("fonts/GTUltra-ThinItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTUltra-ThinItalic.woff") format("woff"),
+    url("fonts/GTUltra-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-Light.eot");
+  src: url("fonts/GTUltra-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-Light.woff2") format("woff2"),
+    url("fonts/GTUltra-Light.woff") format("woff"),
+    url("fonts/GTUltra-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-LightItalic.eot");
+  src: url("fonts/GTUltra-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-LightItalic.woff2") format("woff2"),
+    url("fonts/GTUltra-LightItalic.woff") format("woff"),
+    url("fonts/GTUltra-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-Regular.eot");
+  src: url("fonts/GTUltra-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-Regular.woff2") format("woff2"),
+    url("fonts/GTUltra-Regular.woff") format("woff"),
+    url("fonts/GTUltra-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-Italic.eot");
+  src: url("fonts/GTUltra-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-Italic.woff2") format("woff2"),
+    url("fonts/GTUltra-Italic.woff") format("woff"),
+    url("fonts/GTUltra-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-Bold.eot");
+  src: url("fonts/GTUltra-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-Bold.woff2") format("woff2"),
+    url("fonts/GTUltra-Bold.woff") format("woff"),
+    url("fonts/GTUltra-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-BoldItalic.eot");
+  src: url("fonts/GTUltra-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTUltra-BoldItalic.woff") format("woff"),
+    url("fonts/GTUltra-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-Black.eot");
+  src: url("fonts/GTUltra-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-Black.woff2") format("woff2"),
+    url("fonts/GTUltra-Black.woff") format("woff"),
+    url("fonts/GTUltra-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-BlackItalic.eot");
+  src: url("fonts/GTUltra-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTUltra-BlackItalic.woff") format("woff"),
+    url("fonts/GTUltra-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra";
+  src: url("fonts/GTUltra-ExtraBlack.eot");
+  src: url("fonts/GTUltra-ExtraBlack.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltra-ExtraBlack.woff2") format("woff2"),
+    url("fonts/GTUltra-ExtraBlack.woff") format("woff"),
+    url("fonts/GTUltra-ExtraBlack.ttf") format("truetype");
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}

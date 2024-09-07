@@ -1,0 +1,174 @@
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-Thin.eot");
+  src: url("fonts/GTFlexaMono-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexaMono-Thin.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-Thin.woff") format("woff"),
+    url("fonts/GTFlexaMono-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-ThinItalic.eot");
+  src: url("fonts/GTFlexaMono-ThinItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexaMono-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-ThinItalic.woff") format("woff"),
+    url("fonts/GTFlexaMono-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-ExtraLight.eot");
+  src: url("fonts/GTFlexaMono-ExtraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexaMono-ExtraLight.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-ExtraLight.woff") format("woff"),
+    url("fonts/GTFlexaMono-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-ExtraLightItalic.eot");
+  src: url("fonts/GTFlexaMono-ExtraLightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexaMono-ExtraLightItalic.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-ExtraLightItalic.woff") format("woff"),
+    url("fonts/GTFlexaMono-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-Light.eot");
+  src: url("fonts/GTFlexaMono-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexaMono-Light.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-Light.woff") format("woff"),
+    url("fonts/GTFlexaMono-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-LightItalic.eot");
+  src: url("fonts/GTFlexaMono-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexaMono-LightItalic.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-LightItalic.woff") format("woff"),
+    url("fonts/GTFlexaMono-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-Regular.eot");
+  src: url("fonts/GTFlexaMono-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexaMono-Regular.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-Regular.woff") format("woff"),
+    url("fonts/GTFlexaMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-Italic.eot");
+  src: url("fonts/GTFlexaMono-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexaMono-Italic.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-Italic.woff") format("woff"),
+    url("fonts/GTFlexaMono-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-Medium.eot");
+  src: url("fonts/GTFlexaMono-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexaMono-Medium.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-Medium.woff") format("woff"),
+    url("fonts/GTFlexaMono-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-MediumItalic.eot");
+  src: url("fonts/GTFlexaMono-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexaMono-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-MediumItalic.woff") format("woff"),
+    url("fonts/GTFlexaMono-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-Bold.eot");
+  src: url("fonts/GTFlexaMono-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexaMono-Bold.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-Bold.woff") format("woff"),
+    url("fonts/GTFlexaMono-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-BoldItalic.eot");
+  src: url("fonts/GTFlexaMono-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexaMono-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-BoldItalic.woff") format("woff"),
+    url("fonts/GTFlexaMono-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-Black.eot");
+  src: url("fonts/GTFlexaMono-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTFlexaMono-Black.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-Black.woff") format("woff"),
+    url("fonts/GTFlexaMono-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Flexa Mono";
+  src: url("fonts/GTFlexaMono-BlackItalic.eot");
+  src: url("fonts/GTFlexaMono-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTFlexaMono-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTFlexaMono-BlackItalic.woff") format("woff"),
+    url("fonts/GTFlexaMono-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

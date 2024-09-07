@@ -1,0 +1,204 @@
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-ThinCondensed.eot");
+  src: url("fonts/GTWalsheim-ThinCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-ThinCondensed.woff2") format("woff2"),
+    url("fonts/GTWalsheim-ThinCondensed.woff") format("woff"),
+    url("fonts/GTWalsheim-ThinCondensed.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-ThinCondIta.eot");
+  src: url("fonts/GTWalsheim-ThinCondIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-ThinCondIta.woff2") format("woff2"),
+    url("fonts/GTWalsheim-ThinCondIta.woff") format("woff"),
+    url("fonts/GTWalsheim-ThinCondIta.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-ExtLtCond.eot");
+  src: url("fonts/GTWalsheim-ExtLtCond.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTWalsheim-ExtLtCond.woff2") format("woff2"),
+    url("fonts/GTWalsheim-ExtLtCond.woff") format("woff"),
+    url("fonts/GTWalsheim-ExtLtCond.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-ExtLtCondIta.eot");
+  src: url("fonts/GTWalsheim-ExtLtCondIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-ExtLtCondIta.woff2") format("woff2"),
+    url("fonts/GTWalsheim-ExtLtCondIta.woff") format("woff"),
+    url("fonts/GTWalsheim-ExtLtCondIta.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-LightCondensed.eot");
+  src: url("fonts/GTWalsheim-LightCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-LightCondensed.woff2") format("woff2"),
+    url("fonts/GTWalsheim-LightCondensed.woff") format("woff"),
+    url("fonts/GTWalsheim-LightCondensed.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-LightCondIta.eot");
+  src: url("fonts/GTWalsheim-LightCondIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-LightCondIta.woff2") format("woff2"),
+    url("fonts/GTWalsheim-LightCondIta.woff") format("woff"),
+    url("fonts/GTWalsheim-LightCondIta.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-Condensed.eot");
+  src: url("fonts/GTWalsheim-Condensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTWalsheim-Condensed.woff2") format("woff2"),
+    url("fonts/GTWalsheim-Condensed.woff") format("woff"),
+    url("fonts/GTWalsheim-Condensed.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-CondensedItalic.eot");
+  src: url("fonts/GTWalsheim-CondensedItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-CondensedItalic.woff2") format("woff2"),
+    url("fonts/GTWalsheim-CondensedItalic.woff") format("woff"),
+    url("fonts/GTWalsheim-CondensedItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-MediumCondensed.eot");
+  src: url("fonts/GTWalsheim-MediumCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-MediumCondensed.woff2") format("woff2"),
+    url("fonts/GTWalsheim-MediumCondensed.woff") format("woff"),
+    url("fonts/GTWalsheim-MediumCondensed.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-MedCondIta.eot");
+  src: url("fonts/GTWalsheim-MedCondIta.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTWalsheim-MedCondIta.woff2") format("woff2"),
+    url("fonts/GTWalsheim-MedCondIta.woff") format("woff"),
+    url("fonts/GTWalsheim-MedCondIta.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-BoldCondensed.eot");
+  src: url("fonts/GTWalsheim-BoldCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-BoldCondensed.woff2") format("woff2"),
+    url("fonts/GTWalsheim-BoldCondensed.woff") format("woff"),
+    url("fonts/GTWalsheim-BoldCondensed.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-BoldCondIta.eot");
+  src: url("fonts/GTWalsheim-BoldCondIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-BoldCondIta.woff2") format("woff2"),
+    url("fonts/GTWalsheim-BoldCondIta.woff") format("woff"),
+    url("fonts/GTWalsheim-BoldCondIta.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-ExtraBoldCondensed.eot");
+  src: url("fonts/GTWalsheim-ExtraBoldCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-ExtraBoldCondensed.woff2") format("woff2"),
+    url("fonts/GTWalsheim-ExtraBoldCondensed.woff") format("woff"),
+    url("fonts/GTWalsheim-ExtraBoldCondensed.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-ExtBdCondIta.eot");
+  src: url("fonts/GTWalsheim-ExtBdCondIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-ExtBdCondIta.woff2") format("woff2"),
+    url("fonts/GTWalsheim-ExtBdCondIta.woff") format("woff"),
+    url("fonts/GTWalsheim-ExtBdCondIta.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-BlackCondensed.eot");
+  src: url("fonts/GTWalsheim-BlackCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-BlackCondensed.woff2") format("woff2"),
+    url("fonts/GTWalsheim-BlackCondensed.woff") format("woff"),
+    url("fonts/GTWalsheim-BlackCondensed.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim Condensed";
+  src: url("fonts/GTWalsheim-BlackCondIta.eot");
+  src: url("fonts/GTWalsheim-BlackCondIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTWalsheim-BlackCondIta.woff2") format("woff2"),
+    url("fonts/GTWalsheim-BlackCondIta.woff") format("woff"),
+    url("fonts/GTWalsheim-BlackCondIta.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

@@ -1,0 +1,136 @@
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-Thin.eot");
+  src: url("fonts/GTUltraMedian-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraMedian-Thin.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-Thin.woff") format("woff"),
+    url("fonts/GTUltraMedian-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-ThinItalic.eot");
+  src: url("fonts/GTUltraMedian-ThinItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraMedian-ThinItalic.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-ThinItalic.woff") format("woff"),
+    url("fonts/GTUltraMedian-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-Light.eot");
+  src: url("fonts/GTUltraMedian-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraMedian-Light.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-Light.woff") format("woff"),
+    url("fonts/GTUltraMedian-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-LightItalic.eot");
+  src: url("fonts/GTUltraMedian-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraMedian-LightItalic.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-LightItalic.woff") format("woff"),
+    url("fonts/GTUltraMedian-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-Regular.eot");
+  src: url("fonts/GTUltraMedian-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraMedian-Regular.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-Regular.woff") format("woff"),
+    url("fonts/GTUltraMedian-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-Italic.eot");
+  src: url("fonts/GTUltraMedian-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraMedian-Italic.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-Italic.woff") format("woff"),
+    url("fonts/GTUltraMedian-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-Bold.eot");
+  src: url("fonts/GTUltraMedian-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraMedian-Bold.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-Bold.woff") format("woff"),
+    url("fonts/GTUltraMedian-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-BoldItalic.eot");
+  src: url("fonts/GTUltraMedian-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraMedian-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-BoldItalic.woff") format("woff"),
+    url("fonts/GTUltraMedian-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-Black.eot");
+  src: url("fonts/GTUltraMedian-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTUltraMedian-Black.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-Black.woff") format("woff"),
+    url("fonts/GTUltraMedian-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-BlackItalic.eot");
+  src: url("fonts/GTUltraMedian-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraMedian-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-BlackItalic.woff") format("woff"),
+    url("fonts/GTUltraMedian-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Ultra Median";
+  src: url("fonts/GTUltraMedian-ExtraBlack.eot");
+  src: url("fonts/GTUltraMedian-ExtraBlack.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTUltraMedian-ExtraBlack.woff2") format("woff2"),
+    url("fonts/GTUltraMedian-ExtraBlack.woff") format("woff"),
+    url("fonts/GTUltraMedian-ExtraBlack.ttf") format("truetype");
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "GT Planar";
+  src: url("fonts/GTPlanar-Thin.eot");
+  src: url("fonts/GTPlanar-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPlanar-Thin.woff2") format("woff2"),
+    url("fonts/GTPlanar-Thin.woff") format("woff"),
+    url("fonts/GTPlanar-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar";
+  src: url("fonts/GTPlanar-Light.eot");
+  src: url("fonts/GTPlanar-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPlanar-Light.woff2") format("woff2"),
+    url("fonts/GTPlanar-Light.woff") format("woff"),
+    url("fonts/GTPlanar-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar";
+  src: url("fonts/GTPlanar-Regular.eot");
+  src: url("fonts/GTPlanar-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPlanar-Regular.woff2") format("woff2"),
+    url("fonts/GTPlanar-Regular.woff") format("woff"),
+    url("fonts/GTPlanar-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar";
+  src: url("fonts/GTPlanar-Medium.eot");
+  src: url("fonts/GTPlanar-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPlanar-Medium.woff2") format("woff2"),
+    url("fonts/GTPlanar-Medium.woff") format("woff"),
+    url("fonts/GTPlanar-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar";
+  src: url("fonts/GTPlanar-Bold.eot");
+  src: url("fonts/GTPlanar-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPlanar-Bold.woff2") format("woff2"),
+    url("fonts/GTPlanar-Bold.woff") format("woff"),
+    url("fonts/GTPlanar-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Planar";
+  src: url("fonts/GTPlanar-Black.eot");
+  src: url("fonts/GTPlanar-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTPlanar-Black.woff2") format("woff2"),
+    url("fonts/GTPlanar-Black.woff") format("woff"),
+    url("fonts/GTPlanar-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

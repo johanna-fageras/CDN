@@ -1,0 +1,122 @@
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-Light.eot");
+  src: url("fonts/GTMaruMono-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMono-Light.woff2") format("woff2"),
+    url("fonts/GTMaruMono-Light.woff") format("woff"),
+    url("fonts/GTMaruMono-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-LightItalic.eot");
+  src: url("fonts/GTMaruMono-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTMaruMono-LightItalic.woff2") format("woff2"),
+    url("fonts/GTMaruMono-LightItalic.woff") format("woff"),
+    url("fonts/GTMaruMono-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-Regular.eot");
+  src: url("fonts/GTMaruMono-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMono-Regular.woff2") format("woff2"),
+    url("fonts/GTMaruMono-Regular.woff") format("woff"),
+    url("fonts/GTMaruMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-Italic.eot");
+  src: url("fonts/GTMaruMono-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMono-Italic.woff2") format("woff2"),
+    url("fonts/GTMaruMono-Italic.woff") format("woff"),
+    url("fonts/GTMaruMono-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-Medium.eot");
+  src: url("fonts/GTMaruMono-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMono-Medium.woff2") format("woff2"),
+    url("fonts/GTMaruMono-Medium.woff") format("woff"),
+    url("fonts/GTMaruMono-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-MediumItalic.eot");
+  src: url("fonts/GTMaruMono-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTMaruMono-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTMaruMono-MediumItalic.woff") format("woff"),
+    url("fonts/GTMaruMono-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-Bold.eot");
+  src: url("fonts/GTMaruMono-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMono-Bold.woff2") format("woff2"),
+    url("fonts/GTMaruMono-Bold.woff") format("woff"),
+    url("fonts/GTMaruMono-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-BoldItalic.eot");
+  src: url("fonts/GTMaruMono-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMono-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTMaruMono-BoldItalic.woff") format("woff"),
+    url("fonts/GTMaruMono-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-Black.eot");
+  src: url("fonts/GTMaruMono-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTMaruMono-Black.woff2") format("woff2"),
+    url("fonts/GTMaruMono-Black.woff") format("woff"),
+    url("fonts/GTMaruMono-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Maru Mono";
+  src: url("fonts/GTMaruMono-BlackItalic.eot");
+  src: url("fonts/GTMaruMono-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTMaruMono-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTMaruMono-BlackItalic.woff") format("woff"),
+    url("fonts/GTMaruMono-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

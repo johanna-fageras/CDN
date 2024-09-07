@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-Light.eot");
+  src: url("fonts/GTSectraDisplay-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-Light.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-Light.woff") format("woff"),
+    url("fonts/GTSectraDisplay-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-LightItalic.eot");
+  src: url("fonts/GTSectraDisplay-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-LightItalic.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-LightItalic.woff") format("woff"),
+    url("fonts/GTSectraDisplay-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-Regular.eot");
+  src: url("fonts/GTSectraDisplay-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-Regular.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-Regular.woff") format("woff"),
+    url("fonts/GTSectraDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-Italic.eot");
+  src: url("fonts/GTSectraDisplay-Italic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-Italic.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-Italic.woff") format("woff"),
+    url("fonts/GTSectraDisplay-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-Medium.eot");
+  src: url("fonts/GTSectraDisplay-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-Medium.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-Medium.woff") format("woff"),
+    url("fonts/GTSectraDisplay-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-MediumItalic.eot");
+  src: url("fonts/GTSectraDisplay-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-MediumItalic.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-MediumItalic.woff") format("woff"),
+    url("fonts/GTSectraDisplay-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-Bold.eot");
+  src: url("fonts/GTSectraDisplay-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-Bold.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-Bold.woff") format("woff"),
+    url("fonts/GTSectraDisplay-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-BoldItalic.eot");
+  src: url("fonts/GTSectraDisplay-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-BoldItalic.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-BoldItalic.woff") format("woff"),
+    url("fonts/GTSectraDisplay-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-Black.eot");
+  src: url("fonts/GTSectraDisplay-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-Black.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-Black.woff") format("woff"),
+    url("fonts/GTSectraDisplay-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Sectra Display";
+  src: url("fonts/GTSectraDisplay-BlackItalic.eot");
+  src: url("fonts/GTSectraDisplay-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/GTSectraDisplay-BlackItalic.woff2") format("woff2"),
+    url("fonts/GTSectraDisplay-BlackItalic.woff") format("woff"),
+    url("fonts/GTSectraDisplay-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
