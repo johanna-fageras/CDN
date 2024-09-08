@@ -18,14 +18,14 @@ Choose one of the following options:
 <link
   rel="stylesheet"
   type="text/css"
-  href="https://cdn.jsdelivr.net/gh/johanna-fageras/cdn/fonts/{foundry}/{fontname}.css"
+  href="https://cdn.jsdelivr.net/gh/johanna-fageras/cdn/fonts/{foundry}/{fontfamily}/index.css"
 />
 ```
 
 2. Import in CSS:
 
 ```css
-@import url(https://cdn.jsdelivr.net/gh/johanna-fageras/cdn/fonts/{foundry}/{fontname}.css);
+@import url(https://cdn.jsdelivr.net/gh/johanna-fageras/cdn/fonts/{foundry}/{fontfamily}/index.css);
 ```
 
 ## Font Families
