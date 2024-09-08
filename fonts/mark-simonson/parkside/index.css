@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Parkside";
+  src: url("fonts/Parkside-Thin.eot");
+  src: url("fonts/Parkside-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Parkside-Thin.woff2") format("woff2"),
+    url("fonts/Parkside-Thin.woff") format("woff"),
+    url("fonts/Parkside-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Parkside";
+  src: url("fonts/Parkside-Light.eot");
+  src: url("fonts/Parkside-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Parkside-Light.woff2") format("woff2"),
+    url("fonts/Parkside-Light.woff") format("woff"),
+    url("fonts/Parkside-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Parkside";
+  src: url("fonts/Parkside-Regular.eot");
+  src: url("fonts/Parkside-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Parkside-Regular.woff2") format("woff2"),
+    url("fonts/Parkside-Regular.woff") format("woff"),
+    url("fonts/Parkside-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Parkside";
+  src: url("fonts/Parkside-Medium.eot");
+  src: url("fonts/Parkside-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Parkside-Medium.woff2") format("woff2"),
+    url("fonts/Parkside-Medium.woff") format("woff"),
+    url("fonts/Parkside-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Parkside";
+  src: url("fonts/Parkside-Bold.eot");
+  src: url("fonts/Parkside-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Parkside-Bold.woff2") format("woff2"),
+    url("fonts/Parkside-Bold.woff") format("woff"),
+    url("fonts/Parkside-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Parkside";
+  src: url("fonts/Parkside-Black.eot");
+  src: url("fonts/Parkside-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Parkside-Black.woff2") format("woff2"),
+    url("fonts/Parkside-Black.woff") format("woff"),
+    url("fonts/Parkside-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

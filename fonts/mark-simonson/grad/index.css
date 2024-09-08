@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Grad";
+  src: url("fonts/Grad-Regular.eot");
+  src: url("fonts/Grad-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Grad-Regular.woff2") format("woff2"),
+    url("fonts/Grad-Regular.woff") format("woff"),
+    url("fonts/Grad-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grad";
+  src: url("fonts/Grad-Italic.eot");
+  src: url("fonts/Grad-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Grad-Italic.woff2") format("woff2"),
+    url("fonts/Grad-Italic.woff") format("woff"),
+    url("fonts/Grad-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grad";
+  src: url("fonts/Grad-Bold.eot");
+  src: url("fonts/Grad-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Grad-Bold.woff2") format("woff2"),
+    url("fonts/Grad-Bold.woff") format("woff"),
+    url("fonts/Grad-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

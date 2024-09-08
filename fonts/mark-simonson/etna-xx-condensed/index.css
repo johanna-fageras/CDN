@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "Etna XX Condensed";
+  src: url("fonts/Etna-LightExtraCondensed.eot");
+  src: url("fonts/Etna-LightExtraCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Etna-LightExtraCondensed.woff2") format("woff2"),
+    url("fonts/Etna-LightExtraCondensed.woff") format("woff"),
+    url("fonts/Etna-LightExtraCondensed.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna XX Condensed";
+  src: url("fonts/Etna-ExtraCondensed.eot");
+  src: url("fonts/Etna-ExtraCondensed.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-ExtraCondensed.woff2") format("woff2"),
+    url("fonts/Etna-ExtraCondensed.woff") format("woff"),
+    url("fonts/Etna-ExtraCondensed.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna XX Condensed";
+  src: url("fonts/Etna-SemiBoldExtraCondensed.eot");
+  src: url("fonts/Etna-SemiBoldExtraCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Etna-SemiBoldExtraCondensed.woff2") format("woff2"),
+    url("fonts/Etna-SemiBoldExtraCondensed.woff") format("woff"),
+    url("fonts/Etna-SemiBoldExtraCondensed.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna XX Condensed";
+  src: url("fonts/Etna-BoldExtraCondensed.eot");
+  src: url("fonts/Etna-BoldExtraCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Etna-BoldExtraCondensed.woff2") format("woff2"),
+    url("fonts/Etna-BoldExtraCondensed.woff") format("woff"),
+    url("fonts/Etna-BoldExtraCondensed.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna XX Condensed";
+  src: url("fonts/Etna-ExtraBoldExtraCondensed.eot");
+  src: url("fonts/Etna-ExtraBoldExtraCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Etna-ExtraBoldExtraCondensed.woff2") format("woff2"),
+    url("fonts/Etna-ExtraBoldExtraCondensed.woff") format("woff"),
+    url("fonts/Etna-ExtraBoldExtraCondensed.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna XX Condensed";
+  src: url("fonts/Etna-BlackExtraCondensed.eot");
+  src: url("fonts/Etna-BlackExtraCondensed.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Etna-BlackExtraCondensed.woff2") format("woff2"),
+    url("fonts/Etna-BlackExtraCondensed.woff") format("woff"),
+    url("fonts/Etna-BlackExtraCondensed.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

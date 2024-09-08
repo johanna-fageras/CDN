@@ -1,0 +1,169 @@
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-Thin.eot");
+  src: url("fonts/Viroqua-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-Thin.woff2") format("woff2"),
+    url("fonts/Viroqua-Thin.woff") format("woff"),
+    url("fonts/Viroqua-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-ThinItalic.eot");
+  src: url("fonts/Viroqua-ThinItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-ThinItalic.woff2") format("woff2"),
+    url("fonts/Viroqua-ThinItalic.woff") format("woff"),
+    url("fonts/Viroqua-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-Light.eot");
+  src: url("fonts/Viroqua-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-Light.woff2") format("woff2"),
+    url("fonts/Viroqua-Light.woff") format("woff"),
+    url("fonts/Viroqua-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-LightItalic.eot");
+  src: url("fonts/Viroqua-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-LightItalic.woff2") format("woff2"),
+    url("fonts/Viroqua-LightItalic.woff") format("woff"),
+    url("fonts/Viroqua-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-Regular.eot");
+  src: url("fonts/Viroqua-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-Regular.woff2") format("woff2"),
+    url("fonts/Viroqua-Regular.woff") format("woff"),
+    url("fonts/Viroqua-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-Italic.eot");
+  src: url("fonts/Viroqua-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-Italic.woff2") format("woff2"),
+    url("fonts/Viroqua-Italic.woff") format("woff"),
+    url("fonts/Viroqua-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-SemiBold.eot");
+  src: url("fonts/Viroqua-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-SemiBold.woff2") format("woff2"),
+    url("fonts/Viroqua-SemiBold.woff") format("woff"),
+    url("fonts/Viroqua-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-SemiBoldItalic.eot");
+  src: url("fonts/Viroqua-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Viroqua-SemiBoldItalic.woff2") format("woff2"),
+    url("fonts/Viroqua-SemiBoldItalic.woff") format("woff"),
+    url("fonts/Viroqua-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-Bold.eot");
+  src: url("fonts/Viroqua-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-Bold.woff2") format("woff2"),
+    url("fonts/Viroqua-Bold.woff") format("woff"),
+    url("fonts/Viroqua-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-BoldItalic.eot");
+  src: url("fonts/Viroqua-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-BoldItalic.woff2") format("woff2"),
+    url("fonts/Viroqua-BoldItalic.woff") format("woff"),
+    url("fonts/Viroqua-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-ExtraBold.eot");
+  src: url("fonts/Viroqua-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-ExtraBold.woff2") format("woff2"),
+    url("fonts/Viroqua-ExtraBold.woff") format("woff"),
+    url("fonts/Viroqua-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-ExtraBoldItalic.eot");
+  src: url("fonts/Viroqua-ExtraBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Viroqua-ExtraBoldItalic.woff2") format("woff2"),
+    url("fonts/Viroqua-ExtraBoldItalic.woff") format("woff"),
+    url("fonts/Viroqua-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-Black.eot");
+  src: url("fonts/Viroqua-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-Black.woff2") format("woff2"),
+    url("fonts/Viroqua-Black.woff") format("woff"),
+    url("fonts/Viroqua-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Viroqua";
+  src: url("fonts/Viroqua-BlackItalic.eot");
+  src: url("fonts/Viroqua-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Viroqua-BlackItalic.woff2") format("woff2"),
+    url("fonts/Viroqua-BlackItalic.woff") format("woff"),
+    url("fonts/Viroqua-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

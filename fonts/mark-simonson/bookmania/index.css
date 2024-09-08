@@ -1,0 +1,120 @@
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-Light.eot");
+  src: url("fonts/Bookmania-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-Light.woff2") format("woff2"),
+    url("fonts/Bookmania-Light.woff") format("woff"),
+    url("fonts/Bookmania-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-LightItalic.eot");
+  src: url("fonts/Bookmania-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-LightItalic.woff2") format("woff2"),
+    url("fonts/Bookmania-LightItalic.woff") format("woff"),
+    url("fonts/Bookmania-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-Regular.eot");
+  src: url("fonts/Bookmania-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-Regular.woff2") format("woff2"),
+    url("fonts/Bookmania-Regular.woff") format("woff"),
+    url("fonts/Bookmania-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-Italic.eot");
+  src: url("fonts/Bookmania-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-Italic.woff2") format("woff2"),
+    url("fonts/Bookmania-Italic.woff") format("woff"),
+    url("fonts/Bookmania-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-SemiBold.eot");
+  src: url("fonts/Bookmania-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-SemiBold.woff2") format("woff2"),
+    url("fonts/Bookmania-SemiBold.woff") format("woff"),
+    url("fonts/Bookmania-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-SemiBoldItalic.eot");
+  src: url("fonts/Bookmania-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Bookmania-SemiBoldItalic.woff2") format("woff2"),
+    url("fonts/Bookmania-SemiBoldItalic.woff") format("woff"),
+    url("fonts/Bookmania-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-Bold.eot");
+  src: url("fonts/Bookmania-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-Bold.woff2") format("woff2"),
+    url("fonts/Bookmania-Bold.woff") format("woff"),
+    url("fonts/Bookmania-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-BoldItalic.eot");
+  src: url("fonts/Bookmania-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-BoldItalic.woff2") format("woff2"),
+    url("fonts/Bookmania-BoldItalic.woff") format("woff"),
+    url("fonts/Bookmania-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-Black.eot");
+  src: url("fonts/Bookmania-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-Black.woff2") format("woff2"),
+    url("fonts/Bookmania-Black.woff") format("woff"),
+    url("fonts/Bookmania-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bookmania";
+  src: url("fonts/Bookmania-BlackItalic.eot");
+  src: url("fonts/Bookmania-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Bookmania-BlackItalic.woff2") format("woff2"),
+    url("fonts/Bookmania-BlackItalic.woff") format("woff"),
+    url("fonts/Bookmania-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

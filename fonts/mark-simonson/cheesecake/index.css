@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Cheesecake";
+  src: url("fonts/Cheesecake-Regular.eot");
+  src: url("fonts/Cheesecake-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Cheesecake-Regular.woff2") format("woff2"),
+    url("fonts/Cheesecake-Regular.woff") format("woff"),
+    url("fonts/Cheesecake-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}

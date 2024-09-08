@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "Refrigerator Deluxe";
+  src: url("fonts/RefrigeratorDeluxe-Light.eot");
+  src: url("fonts/RefrigeratorDeluxe-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/RefrigeratorDeluxe-Light.woff2") format("woff2"),
+    url("fonts/RefrigeratorDeluxe-Light.woff") format("woff"),
+    url("fonts/RefrigeratorDeluxe-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Refrigerator Deluxe";
+  src: url("fonts/RefrigeratorDeluxe-Regular.eot");
+  src: url("fonts/RefrigeratorDeluxe-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/RefrigeratorDeluxe-Regular.woff2") format("woff2"),
+    url("fonts/RefrigeratorDeluxe-Regular.woff") format("woff"),
+    url("fonts/RefrigeratorDeluxe-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Refrigerator Deluxe";
+  src: url("fonts/RefrigeratorDeluxe-Bold.eot");
+  src: url("fonts/RefrigeratorDeluxe-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/RefrigeratorDeluxe-Bold.woff2") format("woff2"),
+    url("fonts/RefrigeratorDeluxe-Bold.woff") format("woff"),
+    url("fonts/RefrigeratorDeluxe-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Refrigerator Deluxe";
+  src: url("fonts/RefrigeratorDeluxe-ExtraBold.eot");
+  src: url("fonts/RefrigeratorDeluxe-ExtraBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/RefrigeratorDeluxe-ExtraBold.woff2") format("woff2"),
+    url("fonts/RefrigeratorDeluxe-ExtraBold.woff") format("woff"),
+    url("fonts/RefrigeratorDeluxe-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Refrigerator Deluxe";
+  src: url("fonts/RefrigeratorDeluxe-Black.eot");
+  src: url("fonts/RefrigeratorDeluxe-Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/RefrigeratorDeluxe-Black.woff2") format("woff2"),
+    url("fonts/RefrigeratorDeluxe-Black.woff") format("woff"),
+    url("fonts/RefrigeratorDeluxe-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

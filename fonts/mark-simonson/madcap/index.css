@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Madcap";
+  src: url("fonts/Madcap-Regular.eot");
+  src: url("fonts/Madcap-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Madcap-Regular.woff2") format("woff2"),
+    url("fonts/Madcap-Regular.woff") format("woff"),
+    url("fonts/Madcap-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

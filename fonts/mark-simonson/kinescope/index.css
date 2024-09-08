@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Kinescope";
+  src: url("fonts/Kinescope-Regular.eot");
+  src: url("fonts/Kinescope-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kinescope-Regular.woff2") format("woff2"),
+    url("fonts/Kinescope-Regular.woff") format("woff"),
+    url("fonts/Kinescope-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}

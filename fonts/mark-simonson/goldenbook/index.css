@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Goldenbook";
+  src: url("fonts/Goldenbook-Light.eot");
+  src: url("fonts/Goldenbook-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Goldenbook-Light.woff2") format("woff2"),
+    url("fonts/Goldenbook-Light.woff") format("woff"),
+    url("fonts/Goldenbook-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldenbook";
+  src: url("fonts/Goldenbook-Regular.eot");
+  src: url("fonts/Goldenbook-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Goldenbook-Regular.woff2") format("woff2"),
+    url("fonts/Goldenbook-Regular.woff") format("woff"),
+    url("fonts/Goldenbook-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldenbook";
+  src: url("fonts/Goldenbook-SemiBold.eot");
+  src: url("fonts/Goldenbook-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Goldenbook-SemiBold.woff2") format("woff2"),
+    url("fonts/Goldenbook-SemiBold.woff") format("woff"),
+    url("fonts/Goldenbook-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldenbook";
+  src: url("fonts/Goldenbook-Bold.eot");
+  src: url("fonts/Goldenbook-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Goldenbook-Bold.woff2") format("woff2"),
+    url("fonts/Goldenbook-Bold.woff") format("woff"),
+    url("fonts/Goldenbook-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldenbook";
+  src: url("fonts/Goldenbook-ExtraBold.eot");
+  src: url("fonts/Goldenbook-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Goldenbook-ExtraBold.woff2") format("woff2"),
+    url("fonts/Goldenbook-ExtraBold.woff") format("woff"),
+    url("fonts/Goldenbook-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldenbook";
+  src: url("fonts/Goldenbook-Black.eot");
+  src: url("fonts/Goldenbook-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Goldenbook-Black.woff2") format("woff2"),
+    url("fonts/Goldenbook-Black.woff") format("woff"),
+    url("fonts/Goldenbook-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

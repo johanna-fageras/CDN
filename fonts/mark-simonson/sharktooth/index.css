@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Sharktooth";
+  src: url("fonts/Sharktooth-Regular.eot");
+  src: url("fonts/Sharktooth-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Sharktooth-Regular.woff2") format("woff2"),
+    url("fonts/Sharktooth-Regular.woff") format("woff"),
+    url("fonts/Sharktooth-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sharktooth";
+  src: url("fonts/Sharktooth-Bold.eot");
+  src: url("fonts/Sharktooth-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Sharktooth-Bold.woff2") format("woff2"),
+    url("fonts/Sharktooth-Bold.woff") format("woff"),
+    url("fonts/Sharktooth-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sharktooth";
+  src: url("fonts/Sharktooth-Black.eot");
+  src: url("fonts/Sharktooth-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Sharktooth-Black.woff2") format("woff2"),
+    url("fonts/Sharktooth-Black.woff") format("woff"),
+    url("fonts/Sharktooth-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

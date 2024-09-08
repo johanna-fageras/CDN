@@ -1,0 +1,224 @@
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-Thin.eot");
+  src: url("fonts/ProximaSera-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-Thin.woff2") format("woff2"),
+    url("fonts/ProximaSera-Thin.woff") format("woff"),
+    url("fonts/ProximaSera-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-ThinItalic.eot");
+  src: url("fonts/ProximaSera-ThinItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-ThinItalic.woff2") format("woff2"),
+    url("fonts/ProximaSera-ThinItalic.woff") format("woff"),
+    url("fonts/ProximaSera-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-ExtraLight.eot");
+  src: url("fonts/ProximaSera-ExtraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-ExtraLight.woff2") format("woff2"),
+    url("fonts/ProximaSera-ExtraLight.woff") format("woff"),
+    url("fonts/ProximaSera-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-ExtraLightItalic.eot");
+  src: url("fonts/ProximaSera-ExtraLightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-ExtraLightItalic.woff2") format("woff2"),
+    url("fonts/ProximaSera-ExtraLightItalic.woff") format("woff"),
+    url("fonts/ProximaSera-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-Light.eot");
+  src: url("fonts/ProximaSera-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-Light.woff2") format("woff2"),
+    url("fonts/ProximaSera-Light.woff") format("woff"),
+    url("fonts/ProximaSera-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-LightItalic.eot");
+  src: url("fonts/ProximaSera-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-LightItalic.woff2") format("woff2"),
+    url("fonts/ProximaSera-LightItalic.woff") format("woff"),
+    url("fonts/ProximaSera-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-Regular.eot");
+  src: url("fonts/ProximaSera-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-Regular.woff2") format("woff2"),
+    url("fonts/ProximaSera-Regular.woff") format("woff"),
+    url("fonts/ProximaSera-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-Italic.eot");
+  src: url("fonts/ProximaSera-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-Italic.woff2") format("woff2"),
+    url("fonts/ProximaSera-Italic.woff") format("woff"),
+    url("fonts/ProximaSera-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-Medium.eot");
+  src: url("fonts/ProximaSera-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-Medium.woff2") format("woff2"),
+    url("fonts/ProximaSera-Medium.woff") format("woff"),
+    url("fonts/ProximaSera-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-MediumItalic.eot");
+  src: url("fonts/ProximaSera-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-MediumItalic.woff2") format("woff2"),
+    url("fonts/ProximaSera-MediumItalic.woff") format("woff"),
+    url("fonts/ProximaSera-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-SemiBold.eot");
+  src: url("fonts/ProximaSera-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-SemiBold.woff2") format("woff2"),
+    url("fonts/ProximaSera-SemiBold.woff") format("woff"),
+    url("fonts/ProximaSera-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-SemiBoldItalic.eot");
+  src: url("fonts/ProximaSera-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-SemiBoldItalic.woff2") format("woff2"),
+    url("fonts/ProximaSera-SemiBoldItalic.woff") format("woff"),
+    url("fonts/ProximaSera-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-Bold.eot");
+  src: url("fonts/ProximaSera-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-Bold.woff2") format("woff2"),
+    url("fonts/ProximaSera-Bold.woff") format("woff"),
+    url("fonts/ProximaSera-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-BoldItalic.eot");
+  src: url("fonts/ProximaSera-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-BoldItalic.woff2") format("woff2"),
+    url("fonts/ProximaSera-BoldItalic.woff") format("woff"),
+    url("fonts/ProximaSera-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-ExtraBold.eot");
+  src: url("fonts/ProximaSera-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-ExtraBold.woff2") format("woff2"),
+    url("fonts/ProximaSera-ExtraBold.woff") format("woff"),
+    url("fonts/ProximaSera-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-ExtraBoldItalic.eot");
+  src: url("fonts/ProximaSera-ExtraBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-ExtraBoldItalic.woff2") format("woff2"),
+    url("fonts/ProximaSera-ExtraBoldItalic.woff") format("woff"),
+    url("fonts/ProximaSera-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-Black.eot");
+  src: url("fonts/ProximaSera-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ProximaSera-Black.woff2") format("woff2"),
+    url("fonts/ProximaSera-Black.woff") format("woff"),
+    url("fonts/ProximaSera-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Sera";
+  src: url("fonts/ProximaSera-BlackItalic.eot");
+  src: url("fonts/ProximaSera-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/ProximaSera-BlackItalic.woff2") format("woff2"),
+    url("fonts/ProximaSera-BlackItalic.woff") format("woff"),
+    url("fonts/ProximaSera-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

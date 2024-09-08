@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Kandal";
+  src: url("fonts/Kandal-Regular.eot");
+  src: url("fonts/Kandal-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kandal-Regular.woff2") format("woff2"),
+    url("fonts/Kandal-Regular.woff") format("woff"),
+    url("fonts/Kandal-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kandal";
+  src: url("fonts/Kandal-Italic.eot");
+  src: url("fonts/Kandal-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kandal-Italic.woff2") format("woff2"),
+    url("fonts/Kandal-Italic.woff") format("woff"),
+    url("fonts/Kandal-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kandal";
+  src: url("fonts/Kandal-Medium.eot");
+  src: url("fonts/Kandal-Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kandal-Medium.woff2") format("woff2"),
+    url("fonts/Kandal-Medium.woff") format("woff"),
+    url("fonts/Kandal-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kandal";
+  src: url("fonts/Kandal-MediumItalic.eot");
+  src: url("fonts/Kandal-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kandal-MediumItalic.woff2") format("woff2"),
+    url("fonts/Kandal-MediumItalic.woff") format("woff"),
+    url("fonts/Kandal-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kandal";
+  src: url("fonts/Kandal-Bold.eot");
+  src: url("fonts/Kandal-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kandal-Bold.woff2") format("woff2"),
+    url("fonts/Kandal-Bold.woff") format("woff"),
+    url("fonts/Kandal-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kandal";
+  src: url("fonts/Kandal-BoldItalic.eot");
+  src: url("fonts/Kandal-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kandal-BoldItalic.woff2") format("woff2"),
+    url("fonts/Kandal-BoldItalic.woff") format("woff"),
+    url("fonts/Kandal-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kandal";
+  src: url("fonts/Kandal-Black.eot");
+  src: url("fonts/Kandal-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kandal-Black.woff2") format("woff2"),
+    url("fonts/Kandal-Black.woff") format("woff"),
+    url("fonts/Kandal-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kandal";
+  src: url("fonts/Kandal-BlackItalic.eot");
+  src: url("fonts/Kandal-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Kandal-BlackItalic.woff2") format("woff2"),
+    url("fonts/Kandal-BlackItalic.woff") format("woff"),
+    url("fonts/Kandal-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

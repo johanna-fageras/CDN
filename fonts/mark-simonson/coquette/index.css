@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Coquette";
+  src: url("fonts/Coquette-Thin.eot");
+  src: url("fonts/Coquette-Thin.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Coquette-Thin.woff2") format("woff2"),
+    url("fonts/Coquette-Thin.woff") format("woff"),
+    url("fonts/Coquette-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Coquette";
+  src: url("fonts/Coquette-Light.eot");
+  src: url("fonts/Coquette-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Coquette-Light.woff2") format("woff2"),
+    url("fonts/Coquette-Light.woff") format("woff"),
+    url("fonts/Coquette-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Coquette";
+  src: url("fonts/Coquette-Regular.eot");
+  src: url("fonts/Coquette-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Coquette-Regular.woff2") format("woff2"),
+    url("fonts/Coquette-Regular.woff") format("woff"),
+    url("fonts/Coquette-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Coquette";
+  src: url("fonts/Coquette-Bold.eot");
+  src: url("fonts/Coquette-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Coquette-Bold.woff2") format("woff2"),
+    url("fonts/Coquette-Bold.woff") format("woff"),
+    url("fonts/Coquette-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Coquette";
+  src: url("fonts/Coquette-ExtraBold.eot");
+  src: url("fonts/Coquette-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Coquette-ExtraBold.woff2") format("woff2"),
+    url("fonts/Coquette-ExtraBold.woff") format("woff"),
+    url("fonts/Coquette-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Coquette";
+  src: url("fonts/Coquette-Black.eot");
+  src: url("fonts/Coquette-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Coquette-Black.woff2") format("woff2"),
+    url("fonts/Coquette-Black.woff") format("woff"),
+    url("fonts/Coquette-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

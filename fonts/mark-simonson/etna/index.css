@@ -1,0 +1,143 @@
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-Light.eot");
+  src: url("fonts/Etna-Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-Light.woff2") format("woff2"),
+    url("fonts/Etna-Light.woff") format("woff"),
+    url("fonts/Etna-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-LightItalic.eot");
+  src: url("fonts/Etna-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-LightItalic.woff2") format("woff2"),
+    url("fonts/Etna-LightItalic.woff") format("woff"),
+    url("fonts/Etna-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-Regular.eot");
+  src: url("fonts/Etna-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-Regular.woff2") format("woff2"),
+    url("fonts/Etna-Regular.woff") format("woff"),
+    url("fonts/Etna-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-Italic.eot");
+  src: url("fonts/Etna-Italic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-Italic.woff2") format("woff2"),
+    url("fonts/Etna-Italic.woff") format("woff"),
+    url("fonts/Etna-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-SemiBold.eot");
+  src: url("fonts/Etna-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-SemiBold.woff2") format("woff2"),
+    url("fonts/Etna-SemiBold.woff") format("woff"),
+    url("fonts/Etna-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-SemiBoldItalic.eot");
+  src: url("fonts/Etna-SemiBoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-SemiBoldItalic.woff2") format("woff2"),
+    url("fonts/Etna-SemiBoldItalic.woff") format("woff"),
+    url("fonts/Etna-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-Bold.eot");
+  src: url("fonts/Etna-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-Bold.woff2") format("woff2"),
+    url("fonts/Etna-Bold.woff") format("woff"),
+    url("fonts/Etna-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-BoldItalic.eot");
+  src: url("fonts/Etna-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-BoldItalic.woff2") format("woff2"),
+    url("fonts/Etna-BoldItalic.woff") format("woff"),
+    url("fonts/Etna-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-ExtraBold.eot");
+  src: url("fonts/Etna-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-ExtraBold.woff2") format("woff2"),
+    url("fonts/Etna-ExtraBold.woff") format("woff"),
+    url("fonts/Etna-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-ExtraBoldItalic.eot");
+  src: url("fonts/Etna-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-ExtraBoldItalic.woff2") format("woff2"),
+    url("fonts/Etna-ExtraBoldItalic.woff") format("woff"),
+    url("fonts/Etna-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-Black.eot");
+  src: url("fonts/Etna-Black.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-Black.woff2") format("woff2"),
+    url("fonts/Etna-Black.woff") format("woff"),
+    url("fonts/Etna-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Etna";
+  src: url("fonts/Etna-BlackItalic.eot");
+  src: url("fonts/Etna-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Etna-BlackItalic.woff2") format("woff2"),
+    url("fonts/Etna-BlackItalic.woff") format("woff"),
+    url("fonts/Etna-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

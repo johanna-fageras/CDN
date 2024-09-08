@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Lakeside";
+  src: url("fonts/Lakeside-Regular.eot");
+  src: url("fonts/Lakeside-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Lakeside-Regular.woff2") format("woff2"),
+    url("fonts/Lakeside-Regular.woff") format("woff"),
+    url("fonts/Lakeside-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
